@@ -6,6 +6,8 @@ Ce mémoire rend compte et problématise un stage de quatre mois effectué au se
 
 Ce travail a pour but de donner des préconisations pour appliquer des outils de REN dans le cadre d'une campagne de REM, du pré-traitement des données brutes en sortie de transcription, au signalement des entités dans un fichier XML-TEI, tout en veillant à étudier les enjeux métiers de la REN dans un contexte patrimonial. 
 
+Le mémoire est disponible au format PDF et LaTeX.
+
 ## Livrables
 
 Le travail produit durant ce stage a été stocké dans un sous-répertoire du projet Gitlab de LECTAUREP, accessible avec le lien suivant : https://gitlab.inria.fr/almanach/lectaurep/ner
