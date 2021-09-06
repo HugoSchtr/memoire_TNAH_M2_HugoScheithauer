@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.341410+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.341431+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_023MIC06018_L-1.jpg" imageWidth="2016" imageHeight="3040">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_61b91b13" custom="structure {type:First_line;}">
+        <Coords points="352,1026 357,970 390,939 441,988 491,965 517,977 522,1028 512,1038 486,1028 355,1041"/>
+        <Baseline points="354,1028 523,1030"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1e7cf2fc" >
+        <Coords points="347,1071 352,1041 499,1028 514,1041 519,1071 514,1102 491,1117 395,1096 362,1127 352,1124"/>
+        <Baseline points="349,1073 521,1073"/>
+        <TextEquiv>
+          <Unicode>et autorisation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_80229be6" custom="structure {type:First_line;}">
+        <Coords points="547,1279 552,1231 623,1226 644,1238 720,1223 735,1238 732,1294 550,1294"/>
+        <Baseline points="549,1281 743,1282"/>
+        <TextEquiv>
+          <Unicode>notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6cc88bd9" custom="structure {type:First_line;}">
+        <Coords points="547,1451 552,1411 585,1378 654,1426 692,1426 730,1403 730,1480 717,1493 704,1487 638,1485 554,1488"/>
+        <Baseline points="550,1452 736,1453"/>
+        <TextEquiv>
+          <Unicode>Prorogation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4518d03c" custom="structure {type:First_line;}">
+        <Coords points="545,1780 550,1730 565,1722 631,1737 666,1715 715,1735 720,1780 710,1796 689,1783 621,1793 550,1783"/>
+        <Baseline points="546,1783 722,1782"/>
+        <TextEquiv>
+          <Unicode>translation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_21d1e444" custom="structure {type:First_line;}">
+        <Coords points="545,1826 550,1783 590,1783 611,1796 689,1783 712,1796 717,1826 712,1859 684,1849 672,1862 651,1851 621,1862 598,1854 568,1872 550,1869"/>
+        <Baseline points="546,1827 719,1827"/>
+        <TextEquiv>
+          <Unicode>d&#39;hypothèque</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_09d9a2d5" custom="structure {type:First_line;}">
+        <Coords points="357,2034 362,1960 405,1927 464,1988 532,1965 529,2155 420,2049 360,2052"/>
+        <Baseline points="358,2035 538,2037"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6c30920e" custom="structure {type:First_line;}">
+        <Coords points="538,2226 552,2166 608,2160 697,2183 707,2221 702,2292 694,2257 638,2245 587,2253 572,2261"/>
+        <Baseline points="552,2226 710,2224"/>
+        <TextEquiv>
+          <Unicode>quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_77f00296" custom="structure {type:First_line;}">
+        <Coords points="545,2470 552,2419 583,2419 608,2394 623,2409 644,2406 659,2421 689,2426 730,2383 732,2518 679,2477 613,2497 575,2477 550,2502"/>
+        <Baseline points="547,2471 740,2469"/>
+        <TextEquiv>
+          <Unicode>quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.381914+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.381935+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_023MIC05384_L-1.jpg" imageWidth="2016" imageHeight="2944">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_123b869b" custom="structure {type:First_line;}">
+        <Coords points="466,630 469,571 525,537 564,564 589,552 613,571 628,556 643,561 675,593 702,593 709,625 706,637 660,696 720,625 689,645 655,650 568,645 528,651 511,639 493,654"/>
+        <Baseline points="469,632 711,628"/>
+        <TextEquiv>
+          <Unicode>Bail à loyer</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e4c86ed4" custom="structure {type:First_line;}">
+        <Coords points="233,949 238,893 284,851 302,853 348,900 402,902 446,878 459,890 464,951 456,1069 341,964 321,971 265,961 250,973 235,961"/>
+        <Baseline points="235,950 466,952"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f27337f8" custom="structure {type:First_line;}">
+        <Coords points="471,1054 481,934 510,949 562,1003 579,996 601,1005 635,973 665,964 692,981 694,1064 618,1064 586,1084 532,1059 496,1074 473,1067"/>
+        <Baseline points="472,1055 697,1065"/>
+        <TextEquiv>
+          <Unicode>Bail</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_498f6415" custom="structure {type:First_line;}">
+        <Coords points="478,1368 483,1273 503,1273 545,1297 589,1292 628,1312 662,1297 682,1314 697,1312 717,1332 721,1371 699,1395 675,1371 631,1373 559,1437 510,1388 481,1386"/>
+        <Baseline points="479,1369 723,1373"/>
+        <TextEquiv>
+          <Unicode>Obligation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d95c3269" custom="structure {type:First_line;}">
+        <Coords points="211,1523 216,1457 245,1432 260,1432 311,1474 378,1474 405,1457 449,1474 449,1543 427,1557 380,1533 336,1540 321,1530 304,1540 287,1530 255,1535 216,1575"/>
+        <Baseline points="213,1524 455,1524"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2ef83056" custom="structure {type:First_line;}">
+        <Coords points="469,1665 473,1584 483,1579 523,1579 552,1609 579,1609 633,1577 665,1592 682,1575 682,1675 670,1665 596,1678 520,1673 488,1675 473,1690"/>
+        <Baseline points="471,1667 688,1668"/>
+        <TextEquiv>
+          <Unicode>Vente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e64dfd5d" custom="structure {type:First_line;}">
+        <Coords points="466,1999 471,1886 508,1893 572,1950 601,1933 626,1943 690,1938 699,1928 719,1943 741,1938 746,2004 643,2004 596,2026 559,2001 469,2009"/>
+        <Baseline points="468,2001 747,2005"/>
+        <TextEquiv>
+          <Unicode>Transport</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_17552b2a" custom="structure {type:First_line;}">
+        <Coords points="223,2279 228,2215 262,2193 277,2193 321,2237 373,2242 387,2230 429,2242 464,2222 450,2341 376,2319 348,2357 309,2290 282,2323 255,2306 225,2308"/>
+        <Baseline points="225,2280 468,2291"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_851e9533" custom="structure {type:First_line;}">
+        <Coords points="483,2436 491,2374 518,2392 621,2382 640,2362 670,2377 672,2443 653,2445 633,2465 596,2448 564,2455 530,2485 486,2450"/>
+        <Baseline points="486,2438 673,2445"/>
+        <TextEquiv>
+          <Unicode>Dépot</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

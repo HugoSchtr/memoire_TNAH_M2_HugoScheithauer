@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.968329+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.968351+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH97_007MIC00641_L-0.JPG" imageWidth="2576" imageHeight="3872">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_36847afa" custom="structure {type:First_line;}">
+        <Coords points="939,922 949,893 1010,858 1045,890 1129,890 1145,909 1184,903 1220,932 1210,990 1175,964 1032,961 987,984 968,967 942,971"/>
+        <Baseline points="942,923 1222,933"/>
+        <TextEquiv>
+          <Unicode>Quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b4c2190f" custom="structure {type:First_line;}">
+        <Coords points="920,1164 926,1071 955,1093 997,1055 1029,1061 1094,1126 1136,1109 1226,1116 1233,1164 1216,1206 1178,1210 1129,1187 1042,1190 991,1200 958,1229 926,1197"/>
+        <Baseline points="923,1167 1236,1167"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_083268bb" custom="structure {type:First_line;}">
+        <Coords points="971,1468 974,1413 994,1403 1065,1429 1100,1416 1139,1442 1162,1432 1178,1464 1171,1500 1142,1493 1100,1516 1068,1493 978,1510"/>
+        <Baseline points="974,1470 1181,1466"/>
+        <TextEquiv>
+          <Unicode>Vente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6f3edc00" custom="structure {type:First_line;}">
+        <Coords points="697,1942 703,1829 758,1835 845,1910 900,1890 942,1890 961,1910 997,1900 1003,1942 997,1974 971,2000 913,1971 758,1971 703,2016"/>
+        <Baseline points="698,1943 1006,1943"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d3e790a9" custom="structure {type:First_line;}">
+        <Coords points="719,2200 719,2084 739,2077 752,2074 807,2126 858,2113 884,2132 949,2129 952,2226 942,2216 916,2245 819,2207 726,2210"/>
+        <Baseline points="723,2201 959,2193"/>
+        <TextEquiv>
+          <Unicode>Décharge</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_15dd5d2a" custom="structure {type:First_line;}">
+        <Coords points="755,2591 761,2487 794,2465 826,2455 900,2529 974,2465 974,2691 887,2603 761,2613"/>
+        <Baseline points="758,2593 982,2593"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_67480c21" custom="structure {type:First_line;}">
+        <Coords points="774,2981 777,2900 803,2920 829,2910 900,2929 910,2978 874,3026 832,2994 781,2997"/>
+        <Baseline points="777,2984 911,2980"/>
+        <TextEquiv>
+          <Unicode>Decharge</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9750783c" custom="structure {type:First_line;}">
+        <Coords points="1007,3216 1010,3104 1045,3078 1062,3075 1139,3152 1191,3149 1200,3213 1184,3252 1158,3262 1097,3233 1010,3249"/>
+        <Baseline points="1008,3218 1202,3216"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d826252a" custom="structure {type:First_line;}">
+        <Coords points="765,3517 771,3413 797,3397 823,3397 887,3462 926,3442 955,3458 952,3562 923,3562 900,3539 826,3533 803,3552 771,3549"/>
+        <Baseline points="767,3518 963,3520"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

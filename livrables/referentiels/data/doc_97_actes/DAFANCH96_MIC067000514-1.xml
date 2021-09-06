@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.494121+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.494142+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_MIC067000514-1.JPG" imageWidth="1872" imageHeight="3000">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_2981146d" custom="structure {type:First_line;}">
+        <Coords points="455,660 462,602 475,590 498,590 533,612 558,597 578,620 630,637 635,672 638,705 563,699 507,677 467,698"/>
+        <Baseline points="457,661 638,673"/>
+        <TextEquiv>
+          <Unicode>Ratification</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a3d57396" custom="structure {type:First_line;}">
+        <Coords points="250,797 255,732 282,715 332,767 415,745 435,800 400,817 252,815"/>
+        <Baseline points="251,798 436,800"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_873e1466" custom="structure {type:First_line;}">
+        <Coords points="240,935 245,870 272,847 285,847 335,897 355,887 382,902 395,897 395,965 287,955 245,972"/>
+        <Baseline points="242,935 402,937"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dc3bd43e" custom="structure {type:First_line;}">
+        <Coords points="430,1290 435,1247 465,1255 485,1245 508,1257 528,1242 555,1252 588,1237 593,1295 570,1317 553,1310 515,1327 503,1312 478,1312 468,1322 432,1302"/>
+        <Baseline points="431,1292 595,1295"/>
+        <TextEquiv>
+          <Unicode>mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a12d9631" custom="structure {type:First_line;}">
+        <Coords points="427,1645 432,1572 452,1577 488,1612 518,1605 518,1665 470,1667 452,1672"/>
+        <Baseline points="429,1646 525,1646"/>
+        <TextEquiv>
+          <Unicode>Depot</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8fb8f7e7" custom="structure {type:First_line;}">
+        <Coords points="422,1852 427,1812 462,1820 485,1797 515,1797 530,1812 550,1795 575,1800 573,1875 548,1880 515,1867 450,1882 425,1900"/>
+        <Baseline points="424,1853 583,1855"/>
+        <TextEquiv>
+          <Unicode>mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_986260c4" custom="structure {type:First_line;}">
+        <Coords points="395,2170 410,2102 478,2167 510,2140 540,2167 563,2152 588,2157 590,2185 582,2228 477,2203 427,2214 408,2235"/>
+        <Baseline points="396,2172 593,2185"/>
+        <TextEquiv>
+          <Unicode>Mariage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f5e880aa" custom="structure {type:First_line;}">
+        <Coords points="212,2442 217,2407 240,2425 252,2412 337,2412 375,2445 360,2482 325,2472 285,2485 215,2475"/>
+        <Baseline points="215,2444 377,2447"/>
+        <TextEquiv>
+          <Unicode>Certificat de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d74b2ec1" >
+        <Coords points="207,2485 222,2472 275,2487 322,2472 337,2495 347,2524 282,2534 294,2529 229,2517 207,2535"/>
+        <Baseline points="210,2487 339,2495"/>
+        <TextEquiv>
+          <Unicode>propriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_012c137b" custom="structure {type:First_line;}">
+        <Coords points="225,2672 235,2620 280,2627 265,2720 222,2712"/>
+        <Baseline points="227,2673 279,2681"/>
+        <TextEquiv>
+          <Unicode>Id</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

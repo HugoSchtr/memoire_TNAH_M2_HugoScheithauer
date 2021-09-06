@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.511195+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.511216+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_048MIC06480_L-1.jpg" imageWidth="2080" imageHeight="2944">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_9caf962d" custom="structure {type:First_line;}">
+        <Coords points="351,993 356,905 537,900 535,1008 513,1018 498,1005 419,1010 385,1025 353,1008"/>
+        <Baseline points="353,995 543,999"/>
+        <TextEquiv>
+          <Unicode>Adhésion</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9acd275a" custom="structure {type:First_line;}">
+        <Coords points="557,1256 559,1192 594,1194 628,1160 680,1148 682,1263 660,1261 626,1295 582,1261 562,1278"/>
+        <Baseline points="559,1258 688,1256"/>
+        <TextEquiv>
+          <Unicode>Dépôt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dbcf49da" custom="structure {type:First_line;}">
+        <Coords points="569,1656 569,1562 594,1560 609,1543 672,1602 687,1592 709,1606 751,1602 753,1719 658,1717 577,1795"/>
+        <Baseline points="572,1657 761,1649"/>
+        <TextEquiv>
+          <Unicode>Mariage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

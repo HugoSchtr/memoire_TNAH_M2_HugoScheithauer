@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.331922+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.331951+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_023MIC05809_L-0.jpg" imageWidth="2016" imageHeight="2912">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_70081938" custom="structure {type:First_line;}">
+        <Coords points="876,587 881,524 901,514 930,541 956,548 1083,531 1080,630 1051,606 879,609"/>
+        <Baseline points="878,588 1090,596"/>
+        <TextEquiv>
+          <Unicode>Transaction</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_970c2ffd" custom="structure {type:First_line;}">
+        <Coords points="869,912 874,861 966,863 1020,812 1032,817 1034,917 1022,939 986,941 973,931 954,943 932,924 881,926 871,936"/>
+        <Baseline points="870,913 1036,918"/>
+        <TextEquiv>
+          <Unicode>notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_38193654" custom="structure {type:First_line;}">
+        <Coords points="643,1028 658,965 689,982 740,968 765,992 796,977 808,992 847,977 842,1058 745,1043 716,1045 697,1060 672,1043 646,1045"/>
+        <Baseline points="644,1030 852,1042"/>
+        <TextEquiv>
+          <Unicode>Certificat de vie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_201ad1c2" custom="structure {type:First_line;}">
+        <Coords points="638,1281 643,1227 675,1206 718,1242 748,1247 789,1242 847,1198 852,1283 835,1298 748,1300 738,1310 641,1300"/>
+        <Baseline points="641,1283 853,1286"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_666dfd0c" custom="structure {type:First_line;}">
+        <Coords points="621,1477 626,1441 672,1397 723,1436 750,1439 813,1424 840,1402 837,1487 667,1489 624,1521"/>
+        <Baseline points="624,1478 847,1484"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0ba48679" custom="structure {type:First_line;}">
+        <Coords points="869,1749 879,1688 988,1691 990,1754 978,1793 871,1776"/>
+        <Baseline points="870,1751 993,1755"/>
+        <TextEquiv>
+          <Unicode>Vente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f3967126" custom="structure {type:First_line;}">
+        <Coords points="599,2176 607,2091 621,2101 643,2094 684,2140 723,2142 762,2113 791,2145 789,2200 721,2200 706,2213 677,2196 602,2193"/>
+        <Baseline points="601,2179 798,2188"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c1aafd1f" custom="structure {type:First_line;}">
+        <Coords points="813,2390 823,2334 874,2344 901,2324 920,2344 939,2327 964,2336 986,2317 983,2429 961,2436 939,2421 898,2433 850,2399 828,2399 816,2412"/>
+        <Baseline points="816,2391 993,2398"/>
+        <TextEquiv>
+          <Unicode>mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cc34b6e0" custom="structure {type:First_line;}">
+        <Coords points="587,2574 590,2521 624,2487 658,2521 726,2521 757,2509 786,2516 794,2577 765,2611 733,2613 701,2584 677,2603 638,2608 616,2589 590,2591"/>
+        <Baseline points="588,2575 795,2578"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

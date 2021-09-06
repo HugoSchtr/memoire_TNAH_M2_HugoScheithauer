@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.324101+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.324122+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_023MIC06018_L-0.jpg" imageWidth="2016" imageHeight="3040">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_974b89ba" custom="structure {type:First_line;}">
+        <Coords points="545,757 550,711 573,696 608,704 669,678 689,701 735,684 732,815 689,772 618,792 568,772 547,792"/>
+        <Baseline points="546,759 743,764"/>
+        <TextEquiv>
+          <Unicode>Certift de vie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_029791c6" custom="structure {type:First_line;}">
+        <Coords points="748,937 753,891 773,879 816,896 920,886 925,937 910,944 753,942"/>
+        <Baseline points="750,938 926,938"/>
+        <TextEquiv>
+          <Unicode>Transport</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8373e408" >
+        <Coords points="745,980 753,942 872,939 887,950 968,922 968,1020 950,1031 923,1005 892,1015 879,1003 768,998 750,1010"/>
+        <Baseline points="748,982 974,982"/>
+        <TextEquiv>
+          <Unicode>de droits successifs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8f14b98c" >
+        <Coords points="745,1246 748,1198 788,1162 824,1195 854,1203 887,1203 933,1178 933,1266 849,1259 819,1269 760,1256 748,1266"/>
+        <Baseline points="747,1247 942,1251"/>
+        <TextEquiv>
+          <Unicode>Procès-verbal</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9eaa3d63" custom="structure {type:First_line;}">
+        <Coords points="732,1988 737,1930 770,1900 808,1927 826,1922 857,1953 897,1935 920,1960 925,1996 915,2024 879,2001 826,2006 765,1991 735,2001"/>
+        <Baseline points="734,1990 928,1998"/>
+        <TextEquiv>
+          <Unicode>Procès-verbal</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cb0b0104" custom="structure {type:First_line;}">
+        <Coords points="727,2054 737,2003 773,2019 879,1998 915,2026 920,2057 912,2072 857,2095 811,2064 773,2087 743,2064 730,2074"/>
+        <Baseline points="730,2056 921,2059"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d6afcc20" custom="structure {type:First_line;}">
+        <Coords points="737,2361 743,2277 798,2280 829,2312 854,2310 852,2373 803,2373 773,2401 740,2399"/>
+        <Baseline points="740,2363 860,2365"/>
+        <TextEquiv>
+          <Unicode>Dépot</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d7809fa8" custom="structure {type:First_line;}">
+        <Coords points="722,2667 735,2614 781,2619 811,2606 890,2627 887,2682 773,2682 725,2718"/>
+        <Baseline points="724,2668 897,2672"/>
+        <TextEquiv>
+          <Unicode>quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

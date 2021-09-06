@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.454733+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.454754+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_048MIC06648_L-0.jpg" imageWidth="2048" imageHeight="2944">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_6dad504a" custom="structure {type:First_line;}">
+        <Coords points="729,1005 739,922 805,976 861,976 871,1005 878,1060 844,1032 775,1038"/>
+        <Baseline points="730,1006 873,1008"/>
+        <TextEquiv>
+          <Unicode>Depot</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8247634b" custom="structure {type:First_line;}">
+        <Coords points="729,1530 734,1442 834,1445 903,1425 903,1543 876,1543 820,1570 788,1543 756,1567 734,1557"/>
+        <Baseline points="731,1531 909,1533"/>
+        <TextEquiv>
+          <Unicode>Transport</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f3d6f123" custom="structure {type:First_line;}">
+        <Coords points="726,1916 736,1864 790,1886 861,1874 903,1884 903,1938 876,1930 857,1945 825,1933 807,1945 780,1938 758,1952 731,1928"/>
+        <Baseline points="728,1917 910,1918"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

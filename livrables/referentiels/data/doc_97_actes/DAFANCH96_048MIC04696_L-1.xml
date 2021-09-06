@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.780055+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.780076+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_048MIC04696_L-1.jpg" imageWidth="2048" imageHeight="3008">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_054ceab4" custom="structure {type:First_line;}">
+        <Coords points="526,917 528,864 551,857 619,872 666,827 686,829 721,862 736,849 741,919 729,934 709,922 556,932 528,952"/>
+        <Baseline points="527,918 743,922"/>
+        <TextEquiv>
+          <Unicode>quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5ffd8cf0" custom="structure {type:First_line;}">
+        <Coords points="300,1882 310,1824 325,1829 353,1809 383,1829 423,1824 453,1797 508,1797 508,1902 491,1892 413,1890 365,1922 335,1902 305,1912"/>
+        <Baseline points="302,1883 516,1883"/>
+        <TextEquiv>
+          <Unicode>Certificat</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a35bd24d" >
+        <Coords points="376,1920 416,1892 463,1892 463,1965 448,1980 426,1960 406,1980 381,1955"/>
+        <Baseline points="377,1922 469,1922"/>
+        <TextEquiv>
+          <Unicode>de vie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ea30ea97" custom="structure {type:First_line;}">
+        <Coords points="511,2143 513,2103 531,2085 591,2088 634,2050 674,2070 711,2050 719,2138 701,2163 566,2155 516,2195"/>
+        <Baseline points="512,2144 721,2140"/>
+        <TextEquiv>
+          <Unicode>Notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_69499c5c" custom="structure {type:First_line;}">
+        <Coords points="508,2471 513,2426 531,2408 566,2408 599,2381 629,2383 679,2418 726,2391 734,2469 724,2504 711,2506 684,2479 644,2484 574,2541 511,2494"/>
+        <Baseline points="509,2474 736,2470"/>
+        <TextEquiv>
+          <Unicode>Obligation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

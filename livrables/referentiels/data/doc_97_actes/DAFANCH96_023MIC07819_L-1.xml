@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.279594+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.279618+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_023MIC07819_L-1.jpg" imageWidth="2096" imageHeight="3072">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_2f7bd8ac" custom="structure {type:First_line;}">
+        <Coords points="563,629 571,611 586,611 602,627 614,619 753,632 745,724 676,665 566,668"/>
+        <Baseline points="566,630 754,634"/>
+        <TextEquiv>
+          <Unicode>Cession</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_227e2598" custom="structure {type:First_line;}">
+        <Coords points="566,811 571,752 620,780 714,780 735,762 735,832 725,821 571,826"/>
+        <Baseline points="568,812 741,813"/>
+        <TextEquiv>
+          <Unicode>Revocation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a5c976e1" custom="structure {type:First_line;}">
+        <Coords points="584,1047 589,998 638,983 676,998 676,1062 661,1059 625,1082 589,1059"/>
+        <Baseline points="586,1049 682,1049"/>
+        <TextEquiv>
+          <Unicode>Dépôt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_54131076" custom="structure {type:First_line;}">
+        <Coords points="363,1384 368,1323 407,1323 438,1354 512,1346 535,1328 540,1387 527,1395 484,1395 448,1425 415,1397 366,1405"/>
+        <Baseline points="365,1386 543,1388"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0df4ae96" custom="structure {type:First_line;}">
+        <Coords points="561,1502 566,1441 597,1466 727,1464 727,1507 566,1512"/>
+        <Baseline points="562,1505 733,1505"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_56c92ac6" custom="structure {type:First_line;}">
+        <Coords points="550,1607 558,1559 584,1576 609,1559 630,1574 643,1561 671,1584 694,1564 730,1582 761,1579 768,1612 761,1658 709,1617 553,1615"/>
+        <Baseline points="553,1608 769,1614"/>
+        <TextEquiv>
+          <Unicode>Cahier de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_456501f5" >
+        <Coords points="579,1611 571,1615 684,1615 707,1638 693,1669 571,1674"/>
+        <Baseline points="570,1635 708,1639"/>
+        <TextEquiv>
+          <Unicode>charges</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bf6cbc09" custom="structure {type:First_line;}">
+        <Coords points="553,1684 556,1651 573,1651 630,1658 653,1681 686,1656 725,1687 617,1704 556,1699"/>
+        <Baseline points="556,1685 726,1689"/>
+        <TextEquiv>
+          <Unicode>Notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_51bc8a4c" custom="structure {type:First_line;}">
+        <Coords points="340,1799 345,1751 358,1748 386,1768 427,1751 466,1751 486,1766 509,1758 556,1804 515,1812 494,1832 466,1804 433,1815 343,1807"/>
+        <Baseline points="341,1800 557,1805"/>
+        <TextEquiv>
+          <Unicode>Certificat de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e1f57ba7" >
+        <Coords points="356,1840 358,1809 438,1817 466,1804 502,1827 489,1858 427,1871 392,1850 381,1866 363,1866"/>
+        <Baseline points="358,1842 503,1830"/>
+        <TextEquiv>
+          <Unicode>propriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3fd1df17" custom="structure {type:First_line;}">
+        <Coords points="568,1925 573,1832 604,1835 655,1886 722,1886 720,1935 573,1937"/>
+        <Baseline points="570,1926 730,1926"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_05e44acd" custom="structure {type:First_line;}">
+        <Coords points="348,2060 353,2014 389,1986 471,2048 504,2035 535,2042 540,2065 532,2109 491,2088 399,2096 351,2076"/>
+        <Baseline points="351,2061 542,2068"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e4f6f4b7" custom="structure {type:First_line;}">
+        <Coords points="338,2252 345,2168 425,2242 491,2232 540,2260 532,2298 512,2283 340,2286"/>
+        <Baseline points="340,2255 542,2262"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c573ff67" custom="structure {type:First_line;}">
+        <Coords points="335,2408 351,2329 407,2391 471,2388 502,2362 530,2393 548,2375 571,2391 576,2421 535,2444 515,2434 491,2442 407,2432 356,2447 338,2432"/>
+        <Baseline points="336,2411 577,2422"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_31061b86" custom="structure {type:First_line;}">
+        <Coords points="320,2475 335,2449 466,2470 489,2460 507,2467 545,2447 561,2488 530,2513 456,2513 412,2501 358,2513 343,2498 322,2501"/>
+        <Baseline points="322,2478 563,2489"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7be593c9" custom="structure {type:First_line;}">
+        <Coords points="530,2585 548,2547 576,2549 599,2577 691,2570 707,2585 763,2544 763,2603 725,2624 609,2626 561,2616 530,2639"/>
+        <Baseline points="531,2588 765,2606"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b921cce2" custom="structure {type:First_line;}">
+        <Coords points="540,2731 545,2672 584,2675 602,2659 663,2700 689,2685 725,2708 737,2695 771,2731 579,2731 545,2746"/>
+        <Baseline points="542,2733 772,2733"/>
+        <TextEquiv>
+          <Unicode>Cahier de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a683786b" >
+        <Coords points="584,2746 563,2717 704,2734 730,2769 755,2769 759,2833 689,2808 653,2818 622,2775 528,2765"/>
+        <Baseline points="585,2747 762,2780"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

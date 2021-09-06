@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:10.012146+00:00</Created>
+        <LastChange>2021-07-19T08:44:10.012167+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_MIC067000673-0.JPG" imageWidth="1936" imageHeight="3000">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_197e64af" custom="structure {type:First_line;}">
+        <Coords points="792,1007 795,927 805,920 847,915 890,927 902,915 925,925 970,897 985,905 993,1005 978,1040 940,1012 817,1007"/>
+        <Baseline points="795,1008 994,1006"/>
+        <TextEquiv>
+          <Unicode>Déclaration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_acc0774e" >
+        <Coords points="762,1030 797,1005 957,1012 970,1025 1005,1025 1000,1087 922,1075 845,1110 765,1045"/>
+        <Baseline points="765,1032 1008,1026"/>
+        <TextEquiv>
+          <Unicode>de Command</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9aa93ac3" custom="structure {type:First_line;}">
+        <Coords points="580,1255 585,1155 595,1145 615,1160 640,1147 662,1170 687,1175 732,1165 787,1220 795,1212 795,1262 702,1262 657,1302 615,1270 585,1272"/>
+        <Baseline points="582,1255 802,1256"/>
+        <TextEquiv>
+          <Unicode>Ratification</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_715020e4" custom="structure {type:First_line;}">
+        <Coords points="572,1375 575,1320 595,1310 682,1335 730,1300 747,1300 765,1317 785,1315 787,1417 755,1390 742,1400 715,1387 672,1397 627,1392 595,1422 577,1415"/>
+        <Baseline points="575,1375 795,1370"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3aeea9b4" custom="structure {type:First_line;}">
+        <Coords points="775,1790 777,1727 792,1730 810,1712 860,1742 937,1742 973,1722 995,1745 1013,1742 1020,1785 1015,1807 985,1795 970,1810 942,1805 932,1815 912,1802 870,1830 822,1805 795,1832 780,1827"/>
+        <Baseline points="777,1792 1021,1785"/>
+        <TextEquiv>
+          <Unicode>Donation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_06314392" custom="structure {type:First_line;}">
+        <Coords points="797,2035 805,1980 835,1967 865,1987 900,1962 932,1962 932,2057 867,2117 800,2057"/>
+        <Baseline points="800,2035 942,2034"/>
+        <TextEquiv>
+          <Unicode>Autre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3a7ea018" custom="structure {type:First_line;}">
+        <Coords points="577,2090 585,2012 615,2002 652,2040 690,2007 732,2012 752,1995 812,2055 817,2095 780,2095 745,2125 692,2102 605,2107 580,2120"/>
+        <Baseline points="578,2092 818,2095"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_940876eb" custom="structure {type:First_line;}">
+        <Coords points="577,2335 585,2255 620,2242 647,2260 795,2257 827,2282 830,2345 812,2372 772,2377 750,2357 717,2352 692,2370 670,2347 580,2345"/>
+        <Baseline points="580,2337 832,2347"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b00ee3d6" custom="structure {type:First_line;}">
+        <Coords points="792,2640 797,2570 817,2560 920,2555 983,2592 983,2657 968,2652 947,2670 905,2652 877,2660 847,2690 805,2660 797,2665"/>
+        <Baseline points="793,2640 990,2642"/>
+        <TextEquiv>
+          <Unicode>Dépôt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:10.031152+00:00</Created>
+        <LastChange>2021-07-19T08:44:10.031174+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH97_007MIC00003_L-1.JPG" imageWidth="2560" imageHeight="3872">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_27b5d2ea" custom="structure {type:First_line;}">
+        <Coords points="545,890 548,780 665,793 703,777 761,793 765,974 713,984 619,955 552,971"/>
+        <Baseline points="547,892 774,889"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d0d81d0c" >
+        <Coords points="532,942 535,913 571,890 623,909 655,890 736,906 765,887 790,929 787,977 658,977 619,955 539,977"/>
+        <Baseline points="534,945 794,931"/>
+        <TextEquiv>
+          <Unicode>(en blanc)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cb0f2177" custom="structure {type:First_line;}">
+        <Coords points="797,1264 800,1155 994,1164 1029,1139 1029,1274 803,1271"/>
+        <Baseline points="800,1267 1042,1264"/>
+        <TextEquiv>
+          <Unicode>Bail à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f197f376" >
+        <Coords points="810,1322 819,1268 855,1280 936,1271 939,1393 874,1406 816,1390"/>
+        <Baseline points="812,1323 946,1321"/>
+        <TextEquiv>
+          <Unicode>loyer</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_535cdde8" custom="structure {type:First_line;}">
+        <Coords points="790,1735 794,1642 881,1639 942,1655 1023,1642 1026,1745 1000,1764 913,1745 849,1803 826,1803 810,1823 800,1813"/>
+        <Baseline points="793,1736 1035,1732"/>
+        <TextEquiv>
+          <Unicode>Obligation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f50bd3a7" custom="structure {type:First_line;}">
+        <Coords points="532,2184 539,2068 616,2090 781,2087 781,2207 658,2207 616,2248 561,2194 539,2190"/>
+        <Baseline points="535,2185 788,2187"/>
+        <TextEquiv>
+          <Unicode>Ratification</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3b4436bb" custom="structure {type:First_line;}">
+        <Coords points="522,2545 529,2452 545,2442 726,2449 745,2432 758,2445 755,2571 703,2555 593,2555 526,2584"/>
+        <Baseline points="526,2548 767,2551"/>
+        <TextEquiv>
+          <Unicode>Notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ee8cd4f0" custom="structure {type:First_line;}">
+        <Coords points="539,2939 555,2836 606,2845 652,2891 703,2881 739,2845 778,2836 778,3013 752,3026 606,3013 545,3029"/>
+        <Baseline points="542,2940 786,2942"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0e9bcd6a" >
+        <Coords points="532,2978 561,2945 626,2958 658,2942 710,2942 723,2955 774,2942 790,2978 784,3016 752,3026 710,3013 539,3026"/>
+        <Baseline points="534,2981 794,2981"/>
+        <TextEquiv>
+          <Unicode>(en blanc)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_94ac1140" custom="structure {type:First_line;}">
+        <Coords points="790,3313 790,3220 813,3204 1013,3210 1020,3378 971,3378 949,3397 903,3381 797,3384"/>
+        <Baseline points="791,3316 1028,3306"/>
+        <TextEquiv>
+          <Unicode>Décharge</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

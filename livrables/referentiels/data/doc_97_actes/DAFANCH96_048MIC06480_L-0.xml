@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.460013+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.460034+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_048MIC06480_L-0.jpg" imageWidth="2080" imageHeight="2944">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_98f3b744" custom="structure {type:First_line;}">
+        <Coords points="729,758 731,694 746,677 766,689 803,647 844,679 876,677 881,667 891,753 884,767 849,767 810,802 731,760"/>
+        <Baseline points="730,759 892,755"/>
+        <TextEquiv>
+          <Unicode>Dépôt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_873eafca" custom="structure {type:First_line;}">
+        <Coords points="756,1221 753,1116 773,1133 886,1126 891,1238 857,1229 815,1261 783,1238 761,1248"/>
+        <Baseline points="757,1224 898,1216"/>
+        <TextEquiv>
+          <Unicode>Dépôt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8c600f52" custom="structure {type:First_line;}">
+        <Coords points="758,1633 761,1562 771,1555 788,1552 839,1604 861,1606 896,1606 915,1592 930,1599 970,1575 972,1658 942,1687 854,1690 812,1722 763,1685"/>
+        <Baseline points="761,1634 979,1632"/>
+        <TextEquiv>
+          <Unicode>Reconnaissce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c1a86538" >
+        <Coords points="753,1678 771,1651 876,1656 933,1646 957,1665 977,1658 987,1675 979,1719 942,1687 918,1687 852,1690 807,1722 756,1680"/>
+        <Baseline points="755,1679 988,1676"/>
+        <TextEquiv>
+          <Unicode>d&#39;Enfant naturel</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0684278d" custom="structure {type:First_line;}">
+        <Coords points="766,1913 771,1827 800,1830 847,1876 915,1857 942,1876 947,1913 942,2006 908,2016 793,2016 771,2038"/>
+        <Baseline points="768,1914 949,1914"/>
+        <TextEquiv>
+          <Unicode>Prorogation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_061c5feb" custom="structure {type:First_line;}">
+        <Coords points="778,2320 778,2237 788,2227 857,2279 901,2276 945,2257 970,2279 977,2313 974,2423 938,2392 911,2389 837,2406 785,2443"/>
+        <Baseline points="780,2322 978,2315"/>
+        <TextEquiv>
+          <Unicode>Prorogation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_48e7f4d3" custom="structure {type:First_line;}">
+        <Coords points="584,2649 584,2556 658,2610 704,2612 729,2593 771,2585 773,2666 648,2659 616,2679 589,2652"/>
+        <Baseline points="585,2650 780,2644"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

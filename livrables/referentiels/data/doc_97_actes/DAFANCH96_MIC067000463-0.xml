@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.770409+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.770430+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_MIC067000463-0.JPG" imageWidth="1878" imageHeight="3000">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_11173633" custom="structure {type:First_line;}">
+        <Coords points="440,682 445,605 502,637 600,637 607,680 602,717 577,713 557,714 507,713 484,720 474,710 447,715"/>
+        <Baseline points="442,684 610,681"/>
+        <TextEquiv>
+          <Unicode>Ct de vie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cc75b3a4" custom="structure {type:First_line;}">
+        <Coords points="475,792 497,762 540,745 572,750 588,825 547,843 542,820 479,822"/>
+        <Baseline points="477,793 580,796"/>
+        <TextEquiv>
+          <Unicode>Id</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_956f6c37" custom="structure {type:First_line;}">
+        <Coords points="482,952 490,915 542,902 565,905 582,922 587,952 582,987 567,988 534,972 500,978"/>
+        <Baseline points="483,953 589,953"/>
+        <TextEquiv>
+          <Unicode>Id</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ec273925" custom="structure {type:First_line;}">
+        <Coords points="645,1110 647,1060 670,1050 700,1075 747,1050 785,1075 845,1057 852,1105 837,1125 807,1115 682,1122 647,1110"/>
+        <Baseline points="647,1112 853,1105"/>
+        <TextEquiv>
+          <Unicode>Quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3e98d89b" >
+        <Coords points="642,1142 665,1117 825,1120 868,1114 875,1190 850,1187 842,1195 799,1163 762,1190 758,1173 728,1153 704,1174 658,1180"/>
+        <Baseline points="643,1144 881,1141"/>
+        <TextEquiv>
+          <Unicode>subrogative</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_47838ddd" custom="structure {type:First_line;}">
+        <Coords points="457,1695 460,1635 475,1637 525,1600 590,1657 630,1645 660,1692 665,1721 590,1707 502,1707 475,1735 460,1722"/>
+        <Baseline points="458,1697 661,1694"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_eab67cd0" custom="structure {type:First_line;}">
+        <Coords points="665,1845 665,1772 677,1782 702,1772 770,1802 844,1773 852,1742 857,1842 825,1847 734,1870 667,1860"/>
+        <Baseline points="666,1845 864,1838"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a55a53e6" custom="structure {type:First_line;}">
+        <Coords points="677,2265 680,2202 720,2212 847,2205 839,2302 807,2300 764,2296 719,2301"/>
+        <Baseline points="680,2267 857,2264"/>
+        <TextEquiv>
+          <Unicode>Notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e700463d" custom="structure {type:First_line;}">
+        <Coords points="485,2487 487,2432 505,2425 565,2425 590,2450 607,2442 630,2455 672,2442 680,2485 675,2525 679,2513 514,2516"/>
+        <Baseline points="486,2488 681,2487"/>
+        <TextEquiv>
+          <Unicode>Ct de vie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_40b223af" custom="structure {type:First_line;}">
+        <Coords points="682,2627 685,2560 697,2572 777,2587 807,2580 822,2595 850,2570 865,2572 867,2675 847,2655 800,2660 789,2654 759,2664 737,2682 741,2658"/>
+        <Baseline points="685,2629 874,2625"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

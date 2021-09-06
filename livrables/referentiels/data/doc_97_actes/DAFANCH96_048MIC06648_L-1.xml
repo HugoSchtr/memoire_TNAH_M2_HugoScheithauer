@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.503733+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.503754+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_048MIC06648_L-1.jpg" imageWidth="2048" imageHeight="2944">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_bd5b7c47" custom="structure {type:First_line;}">
+        <Coords points="545,819 550,765 577,765 596,782 643,782 719,716 731,718 741,812 736,848 731,834 692,849 680,883 684,856 672,852 564,845"/>
+        <Baseline points="546,820 743,814"/>
+        <TextEquiv>
+          <Unicode>quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_86181c5e" custom="structure {type:First_line;}">
+        <Coords points="547,1246 554,1180 579,1180 621,1226 645,1219 663,1236 680,1221 702,1234 729,1226 731,1261 719,1323 702,1300 662,1289 624,1276 600,1294 573,1267"/>
+        <Baseline points="550,1248 733,1263"/>
+        <TextEquiv>
+          <Unicode>Substitution</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e4ffc1eb" custom="structure {type:First_line;}">
+        <Coords points="545,1709 550,1629 574,1629 604,1660 626,1668 675,1673 702,1660 721,1675 729,1712 723,1762 709,1744 576,1737 561,1762 549,1759"/>
+        <Baseline points="546,1710 730,1714"/>
+        <TextEquiv>
+          <Unicode>Substitution</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d6c50d04" custom="structure {type:First_line;}">
+        <Coords points="540,1962 545,1896 606,1933 650,1930 667,1940 702,1923 726,1938 731,1962 726,1979 545,1977"/>
+        <Baseline points="541,1965 732,1965"/>
+        <TextEquiv>
+          <Unicode>Substitution</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_19569975" custom="structure {type:First_line;}">
+        <Coords points="547,2158 554,2104 574,2117 596,2109 608,2122 658,2129 687,2114 702,2122 729,2104 741,2109 748,2154 744,2234 736,2186 717,2196 694,2175 651,2199 632,2189 576,2191"/>
+        <Baseline points="548,2159 751,2156"/>
+        <TextEquiv>
+          <Unicode>Substitution</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9062c55b" custom="structure {type:First_line;}">
+        <Coords points="542,2352 545,2323 567,2301 591,2315 618,2301 636,2318 670,2308 692,2318 717,2288 763,2342 753,2374 726,2355 650,2384 621,2372 604,2387 547,2379"/>
+        <Baseline points="543,2354 765,2345"/>
+        <TextEquiv>
+          <Unicode>Substitution</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

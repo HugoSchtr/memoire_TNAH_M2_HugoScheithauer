@@ -1,0 +1,1865 @@
+{
+    "GT": [
+        {
+            "mixte_mrs_15": [
+                {
+                    "FRAN_0025_5094_L-1": {
+                        "levensthein_distance_char": 503,
+                        "levensthein_distance_words": 286,
+                        "hamming_distance": "Ø",
+                        "wer": 0.446875,
+                        "cer": 0.13902708678828082,
+                        "wacc": 0.553125,
+                        "mer": 0.13506981740064447,
+                        "cil": 0.19967556085667737,
+                        "cip": 0.8003244391433226,
+                        "hits": 3221,
+                        "substitutions": 256,
+                        "deletions": 141,
+                        "insertions": 106
+                    }
+                },
+                {
+                    "FRAN_0025_3227_L-1": {
+                        "levensthein_distance_char": 191,
+                        "levensthein_distance_words": 103,
+                        "hamming_distance": "Ø",
+                        "wer": 0.2641025641025641,
+                        "cer": 0.08842592592592592,
+                        "wacc": 0.735897435897436,
+                        "mer": 0.08485117725455353,
+                        "cil": 0.12214940588488399,
+                        "cip": 0.877850594115116,
+                        "hits": 2060,
+                        "substitutions": 87,
+                        "deletions": 13,
+                        "insertions": 91
+                    }
+                },
+                {
+                    "FRAN_0025_6403_L-0": {
+                        "levensthein_distance_char": 297,
+                        "levensthein_distance_words": 168,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3366733466933868,
+                        "cer": 0.10266159695817491,
+                        "wacc": 0.6633266533066132,
+                        "mer": 0.09953083109919571,
+                        "cil": 0.14881701562175054,
+                        "cip": 0.8511829843782495,
+                        "hits": 2687,
+                        "substitutions": 154,
+                        "deletions": 52,
+                        "insertions": 91
+                    }
+                },
+                {
+                    "FRAN_0025_6122_L-0": {
+                        "levensthein_distance_char": 363,
+                        "levensthein_distance_words": 213,
+                        "hamming_distance": "Ø",
+                        "wer": 0.46710526315789475,
+                        "cer": 0.1461352657004831,
+                        "wacc": 0.5328947368421053,
+                        "mer": 0.13993831919814959,
+                        "cil": 0.21359163323449037,
+                        "cip": 0.7864083667655096,
+                        "hits": 2231,
+                        "substitutions": 207,
+                        "deletions": 46,
+                        "insertions": 110
+                    }
+                },
+                {
+                    "FRAN_0025_6393_L-1": {
+                        "levensthein_distance_char": 264,
+                        "levensthein_distance_words": 130,
+                        "hamming_distance": "Ø",
+                        "wer": 0.25793650793650796,
+                        "cer": 0.0873015873015873,
+                        "wacc": 0.7420634920634921,
+                        "mer": 0.08475120385232744,
+                        "cil": 0.1247485652606134,
+                        "cip": 0.8752514347393866,
+                        "hits": 2851,
+                        "substitutions": 129,
+                        "deletions": 44,
+                        "insertions": 91
+                    }
+                },
+                {
+                    "FRAN_0025_3657_L-1": {
+                        "levensthein_distance_char": 231,
+                        "levensthein_distance_words": 125,
+                        "hamming_distance": "Ø",
+                        "wer": 0.20764119601328904,
+                        "cer": 0.07034104750304507,
+                        "wacc": 0.792358803986711,
+                        "mer": 0.0685459940652819,
+                        "cil": 0.10059884491919246,
+                        "cip": 0.8994011550808075,
+                        "hits": 3139,
+                        "substitutions": 111,
+                        "deletions": 34,
+                        "insertions": 86
+                    }
+                },
+                {
+                    "FRAN_0025_3928_L-1": {
+                        "levensthein_distance_char": 266,
+                        "levensthein_distance_words": 158,
+                        "hamming_distance": "Ø",
+                        "wer": 0.29044117647058826,
+                        "cer": 0.08597285067873303,
+                        "wacc": 0.7095588235294117,
+                        "mer": 0.08291770573566085,
+                        "cil": 0.11973966136776637,
+                        "cip": 0.8802603386322336,
+                        "hits": 2942,
+                        "substitutions": 122,
+                        "deletions": 30,
+                        "insertions": 114
+                    }
+                },
+                {
+                    "FRAN_0025_3548_L-1": {
+                        "levensthein_distance_char": 234,
+                        "levensthein_distance_words": 132,
+                        "hamming_distance": "Ø",
+                        "wer": 0.2624254473161034,
+                        "cer": 0.0854014598540146,
+                        "wacc": 0.7375745526838966,
+                        "mer": 0.0824814945364822,
+                        "cil": 0.11966892132431473,
+                        "cip": 0.8803310786756853,
+                        "hits": 2603,
+                        "substitutions": 109,
+                        "deletions": 28,
+                        "insertions": 97
+                    }
+                },
+                {
+                    "FRAN_0025_3227_L-0": {
+                        "levensthein_distance_char": 184,
+                        "levensthein_distance_words": 102,
+                        "hamming_distance": "Ø",
+                        "wer": 0.2779291553133515,
+                        "cer": 0.08498845265588914,
+                        "wacc": 0.7220708446866485,
+                        "mer": 0.08206958073148975,
+                        "cil": 0.12155894849168969,
+                        "cip": 0.8784410515083103,
+                        "hits": 2058,
+                        "substitutions": 92,
+                        "deletions": 15,
+                        "insertions": 77
+                    }
+                },
+                {
+                    "FRAN_0025_4484_L-0": {
+                        "levensthein_distance_char": 837,
+                        "levensthein_distance_words": 422,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3914656771799629,
+                        "cer": 0.13627482904591337,
+                        "wacc": 0.608534322820037,
+                        "mer": 0.1301710730948678,
+                        "cil": 0.19183241409977614,
+                        "cip": 0.8081675859002239,
+                        "hits": 5593,
+                        "substitutions": 421,
+                        "deletions": 128,
+                        "insertions": 288
+                    }
+                },
+                {
+                    "FRAN_0025_6067_L-0": {
+                        "levensthein_distance_char": 343,
+                        "levensthein_distance_words": 169,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3407258064516129,
+                        "cer": 0.12722551928783382,
+                        "wacc": 0.6592741935483871,
+                        "mer": 0.12210751156995373,
+                        "cil": 0.18920860470126954,
+                        "cip": 0.8107913952987305,
+                        "hits": 2466,
+                        "substitutions": 203,
+                        "deletions": 27,
+                        "insertions": 113
+                    }
+                },
+                {
+                    "FRAN_0025_4688_L-1": {
+                        "levensthein_distance_char": 230,
+                        "levensthein_distance_words": 133,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3757062146892655,
+                        "cer": 0.12041884816753927,
+                        "wacc": 0.6242937853107344,
+                        "mer": 0.114598903836572,
+                        "cil": 0.16332932361108166,
+                        "cip": 0.8366706763889183,
+                        "hits": 1777,
+                        "substitutions": 102,
+                        "deletions": 31,
+                        "insertions": 97
+                    }
+                },
+                {
+                    "FRAN_0025_3657_L-0": {
+                        "levensthein_distance_char": 209,
+                        "levensthein_distance_words": 113,
+                        "hamming_distance": "Ø",
+                        "wer": 0.20658135283363802,
+                        "cer": 0.06865965834428384,
+                        "wacc": 0.793418647166362,
+                        "mer": 0.0668158567774936,
+                        "cil": 0.09763602558986573,
+                        "cip": 0.9023639744101343,
+                        "hits": 2919,
+                        "substitutions": 99,
+                        "deletions": 26,
+                        "insertions": 84
+                    }
+                },
+                {
+                    "FRAN_0025_2873_L-0": {
+                        "levensthein_distance_char": 566,
+                        "levensthein_distance_words": 336,
+                        "hamming_distance": "Ø",
+                        "wer": 0.49122807017543857,
+                        "cer": 0.1499337748344371,
+                        "wacc": 0.5087719298245614,
+                        "mer": 0.14427733877134846,
+                        "cil": 0.20286128082476418,
+                        "cip": 0.7971387191752358,
+                        "hits": 3357,
+                        "substitutions": 240,
+                        "deletions": 178,
+                        "insertions": 148
+                    }
+                },
+                {
+                    "FRAN_0025_3012_L-1": {
+                        "levensthein_distance_char": 338,
+                        "levensthein_distance_words": 182,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3568627450980392,
+                        "cer": 0.12037037037037036,
+                        "wacc": 0.6431372549019607,
+                        "mer": 0.11547659719849676,
+                        "cil": 0.17230231338241042,
+                        "cip": 0.8276976866175896,
+                        "hits": 2589,
+                        "substitutions": 176,
+                        "deletions": 43,
+                        "insertions": 119
+                    }
+                },
+                {
+                    "FRAN_0025_4927_L-1": {
+                        "levensthein_distance_char": 474,
+                        "levensthein_distance_words": 248,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5767441860465117,
+                        "cer": 0.19418271200327736,
+                        "wacc": 0.4232558139534883,
+                        "mer": 0.18223760092272204,
+                        "cil": 0.271751810306736,
+                        "cip": 0.728248189693264,
+                        "hits": 2127,
+                        "substitutions": 258,
+                        "deletions": 56,
+                        "insertions": 160
+                    }
+                },
+                {
+                    "FRAN_0025_5567_L-1": {
+                        "levensthein_distance_char": 229,
+                        "levensthein_distance_words": 145,
+                        "hamming_distance": "Ø",
+                        "wer": 0.39617486338797814,
+                        "cer": 0.11258603736479843,
+                        "wacc": 0.6038251366120219,
+                        "mer": 0.10863377609108159,
+                        "cil": 0.1590059587782885,
+                        "cip": 0.8409940412217115,
+                        "hits": 1879,
+                        "substitutions": 111,
+                        "deletions": 44,
+                        "insertions": 74
+                    }
+                },
+                {
+                    "FRAN_0025_4959_L-1": {
+                        "levensthein_distance_char": 280,
+                        "levensthein_distance_words": 167,
+                        "hamming_distance": "Ø",
+                        "wer": 0.46005509641873277,
+                        "cer": 0.13333333333333333,
+                        "wacc": 0.5399449035812672,
+                        "mer": 0.12727272727272726,
+                        "cil": 0.18880380248217588,
+                        "cip": 0.8111961975178241,
+                        "hits": 1920,
+                        "substitutions": 144,
+                        "deletions": 36,
+                        "insertions": 100
+                    }
+                },
+                {
+                    "FRAN_0025_5038_L-1": {
+                        "levensthein_distance_char": 259,
+                        "levensthein_distance_words": 171,
+                        "hamming_distance": "Ø",
+                        "wer": 0.351129363449692,
+                        "cer": 0.09795763993948563,
+                        "wacc": 0.6488706365503081,
+                        "mer": 0.09483705602343465,
+                        "cil": 0.14050237731014847,
+                        "cip": 0.8594976226898515,
+                        "hits": 2472,
+                        "substitutions": 130,
+                        "deletions": 42,
+                        "insertions": 87
+                    }
+                },
+                {
+                    "FRAN_0025_6403_L-1": {
+                        "levensthein_distance_char": 354,
+                        "levensthein_distance_words": 204,
+                        "hamming_distance": "Ø",
+                        "wer": 0.38345864661654133,
+                        "cer": 0.11445198836081474,
+                        "wacc": 0.6165413533834587,
+                        "mer": 0.11114599686028258,
+                        "cil": 0.166014374058723,
+                        "cip": 0.833985625941277,
+                        "hits": 2831,
+                        "substitutions": 184,
+                        "deletions": 78,
+                        "insertions": 92
+                    }
+                },
+                {
+                    "FRAN_0025_3012_L-0": {
+                        "levensthein_distance_char": 295,
+                        "levensthein_distance_words": 174,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3473053892215569,
+                        "cer": 0.10638297872340426,
+                        "wacc": 0.652694610778443,
+                        "mer": 0.10182947877114257,
+                        "cil": 0.1510622749571544,
+                        "cip": 0.8489377250428456,
+                        "hits": 2602,
+                        "substitutions": 150,
+                        "deletions": 21,
+                        "insertions": 124
+                    }
+                },
+                {
+                    "FRAN_0025_4448_L-1": {
+                        "levensthein_distance_char": 514,
+                        "levensthein_distance_words": 295,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3558504221954162,
+                        "cer": 0.10924548352816153,
+                        "wacc": 0.6441495778045838,
+                        "mer": 0.10580485796624126,
+                        "cil": 0.1607661841491701,
+                        "cip": 0.8392338158508299,
+                        "hits": 4344,
+                        "substitutions": 282,
+                        "deletions": 79,
+                        "insertions": 153
+                    }
+                },
+                {
+                    "FRAN_0025_3928_L-0": {
+                        "levensthein_distance_char": 233,
+                        "levensthein_distance_words": 128,
+                        "hamming_distance": "Ø",
+                        "wer": 0.2438095238095238,
+                        "cer": 0.07769256418806268,
+                        "wacc": 0.7561904761904762,
+                        "mer": 0.07520981278244028,
+                        "cil": 0.10672737300597157,
+                        "cip": 0.8932726269940284,
+                        "hits": 2865,
+                        "substitutions": 100,
+                        "deletions": 34,
+                        "insertions": 99
+                    }
+                },
+                {
+                    "FRAN_0025_2863_L-1": {
+                        "levensthein_distance_char": 527,
+                        "levensthein_distance_words": 307,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4468704512372635,
+                        "cer": 0.1478675645342312,
+                        "wacc": 0.5531295487627366,
+                        "mer": 0.14189553042541733,
+                        "cil": 0.20104315434191156,
+                        "cip": 0.7989568456580884,
+                        "hits": 3187,
+                        "substitutions": 230,
+                        "deletions": 147,
+                        "insertions": 150
+                    }
+                },
+                {
+                    "FRAN_0025_4702_L-1": {
+                        "levensthein_distance_char": 279,
+                        "levensthein_distance_words": 163,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4822485207100592,
+                        "cer": 0.14715189873417722,
+                        "wacc": 0.5177514792899408,
+                        "mer": 0.14285714285714285,
+                        "cil": 0.225370193455935,
+                        "cip": 0.774629806544065,
+                        "hits": 1674,
+                        "substitutions": 177,
+                        "deletions": 45,
+                        "insertions": 57
+                    }
+                },
+                {
+                    "FRAN_0025_4029_L-1": {
+                        "levensthein_distance_char": 213,
+                        "levensthein_distance_words": 134,
+                        "hamming_distance": "Ø",
+                        "wer": 0.29646017699115046,
+                        "cer": 0.08068181818181819,
+                        "wacc": 0.7035398230088495,
+                        "mer": 0.07822254865956665,
+                        "cil": 0.11680180786398398,
+                        "cip": 0.883198192136016,
+                        "hits": 2510,
+                        "substitutions": 109,
+                        "deletions": 21,
+                        "insertions": 83
+                    }
+                },
+                {
+                    "FRAN_0025_5428_L-1": {
+                        "levensthein_distance_char": 341,
+                        "levensthein_distance_words": 193,
+                        "hamming_distance": "Ø",
+                        "wer": 0.42139737991266374,
+                        "cer": 0.14027149321266968,
+                        "wacc": 0.5786026200873362,
+                        "mer": 0.133203125,
+                        "cil": 0.19174466676931345,
+                        "cip": 0.8082553332306865,
+                        "hits": 2219,
+                        "substitutions": 158,
+                        "deletions": 54,
+                        "insertions": 129
+                    }
+                },
+                {
+                    "FRAN_0025_5074_L-0": {
+                        "levensthein_distance_char": 269,
+                        "levensthein_distance_words": 168,
+                        "hamming_distance": "Ø",
+                        "wer": 0.39622641509433965,
+                        "cer": 0.11886875828546177,
+                        "wacc": 0.6037735849056604,
+                        "mer": 0.11609840310746655,
+                        "cil": 0.17515512901672203,
+                        "cip": 0.824844870983278,
+                        "hits": 2048,
+                        "substitutions": 145,
+                        "deletions": 70,
+                        "insertions": 54
+                    }
+                },
+                {
+                    "FRAN_0025_4702_L-0": {
+                        "levensthein_distance_char": 200,
+                        "levensthein_distance_words": 115,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3745928338762215,
+                        "cer": 0.11813349084465447,
+                        "wacc": 0.6254071661237786,
+                        "mer": 0.11467889908256881,
+                        "cil": 0.17750385037896554,
+                        "cip": 0.8224961496210345,
+                        "hits": 1544,
+                        "substitutions": 117,
+                        "deletions": 32,
+                        "insertions": 51
+                    }
+                },
+                {
+                    "FRAN_0025_4959_L-0": {
+                        "levensthein_distance_char": 310,
+                        "levensthein_distance_words": 195,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4838709677419355,
+                        "cer": 0.1363236587510994,
+                        "wacc": 0.5161290322580645,
+                        "mer": 0.13152312261349172,
+                        "cil": 0.19884344766930517,
+                        "cip": 0.8011565523306948,
+                        "hits": 2047,
+                        "substitutions": 170,
+                        "deletions": 57,
+                        "insertions": 83
+                    }
+                },
+                {
+                    "FRAN_0025_5738_L-1": {
+                        "levensthein_distance_char": 254,
+                        "levensthein_distance_words": 163,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4014778325123153,
+                        "cer": 0.1119435874834729,
+                        "wacc": 0.5985221674876847,
+                        "mer": 0.10817717206132879,
+                        "cil": 0.1575862531377964,
+                        "cip": 0.8424137468622036,
+                        "hits": 2094,
+                        "substitutions": 121,
+                        "deletions": 54,
+                        "insertions": 79
+                    }
+                },
+                {
+                    "FRAN_0025_5428_L-0": {
+                        "levensthein_distance_char": 402,
+                        "levensthein_distance_words": 231,
+                        "hamming_distance": "Ø",
+                        "wer": 0.46292585170340683,
+                        "cer": 0.15296803652968036,
+                        "wacc": 0.5370741482965932,
+                        "mer": 0.14326443335709194,
+                        "cil": 0.19653166011292345,
+                        "cip": 0.8034683398870766,
+                        "hits": 2404,
+                        "substitutions": 155,
+                        "deletions": 69,
+                        "insertions": 178
+                    }
+                },
+                {
+                    "FRAN_0025_6067_L-1": {
+                        "levensthein_distance_char": 559,
+                        "levensthein_distance_words": 240,
+                        "hamming_distance": "Ø",
+                        "wer": 0.46065259117082535,
+                        "cer": 0.19900320398718405,
+                        "wacc": 0.5393474088291746,
+                        "mer": 0.18250081619327457,
+                        "cil": 0.2574461851187858,
+                        "cip": 0.7425538148812142,
+                        "hits": 2504,
+                        "substitutions": 248,
+                        "deletions": 57,
+                        "insertions": 254
+                    }
+                },
+                {
+                    "FRAN_0025_4927_L-0": {
+                        "levensthein_distance_char": 391,
+                        "levensthein_distance_words": 232,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5590361445783133,
+                        "cer": 0.1653276955602537,
+                        "wacc": 0.4409638554216867,
+                        "mer": 0.1564,
+                        "cil": 0.22826804175584137,
+                        "cip": 0.7717319582441586,
+                        "hits": 2109,
+                        "substitutions": 193,
+                        "deletions": 63,
+                        "insertions": 135
+                    }
+                },
+                {
+                    "FRAN_0025_5074_L-1": {
+                        "levensthein_distance_char": 247,
+                        "levensthein_distance_words": 156,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4,
+                        "cer": 0.1092436974789916,
+                        "wacc": 0.6,
+                        "mer": 0.10688013846819559,
+                        "cil": 0.15659600314705346,
+                        "cip": 0.8434039968529465,
+                        "hits": 2064,
+                        "substitutions": 120,
+                        "deletions": 77,
+                        "insertions": 50
+                    }
+                },
+                {
+                    "FRAN_0025_4029_L-0": {
+                        "levensthein_distance_char": 268,
+                        "levensthein_distance_words": 159,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3689095127610209,
+                        "cer": 0.10501567398119123,
+                        "wacc": 0.6310904872389791,
+                        "mer": 0.10151515151515152,
+                        "cil": 0.14413978075897105,
+                        "cip": 0.855860219241029,
+                        "hits": 2372,
+                        "substitutions": 116,
+                        "deletions": 64,
+                        "insertions": 88
+                    }
+                },
+                {
+                    "FRAN_0025_3909_L-0": {
+                        "levensthein_distance_char": 339,
+                        "levensthein_distance_words": 176,
+                        "hamming_distance": "Ø",
+                        "wer": 0.31040564373897706,
+                        "cer": 0.10748256182625238,
+                        "wacc": 0.689594356261023,
+                        "mer": 0.10332215787869552,
+                        "cil": 0.15091279657452106,
+                        "cip": 0.8490872034254789,
+                        "hits": 2942,
+                        "substitutions": 163,
+                        "deletions": 49,
+                        "insertions": 127
+                    }
+                },
+                {
+                    "FRAN_0025_2873_L-1": {
+                        "levensthein_distance_char": 511,
+                        "levensthein_distance_words": 305,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4446064139941691,
+                        "cer": 0.14030752333882482,
+                        "wacc": 0.5553935860058309,
+                        "mer": 0.13543599257884972,
+                        "cil": 0.18888158113391762,
+                        "cip": 0.8111184188660824,
+                        "hits": 3262,
+                        "substitutions": 209,
+                        "deletions": 171,
+                        "insertions": 131
+                    }
+                },
+                {
+                    "FRAN_0025_6393_L-0": {
+                        "levensthein_distance_char": 271,
+                        "levensthein_distance_words": 150,
+                        "hamming_distance": "Ø",
+                        "wer": 0.27522935779816515,
+                        "cer": 0.0838490099009901,
+                        "wacc": 0.7247706422018348,
+                        "mer": 0.08135694986490544,
+                        "cil": 0.11913850247901048,
+                        "cip": 0.8808614975209895,
+                        "hits": 3060,
+                        "substitutions": 130,
+                        "deletions": 42,
+                        "insertions": 99
+                    }
+                },
+                {
+                    "FRAN_0025_3056_L-1": {
+                        "levensthein_distance_char": 366,
+                        "levensthein_distance_words": 208,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3977055449330784,
+                        "cer": 0.12294255962378232,
+                        "wacc": 0.6022944550669216,
+                        "mer": 0.11776061776061776,
+                        "cil": 0.17303518197470724,
+                        "cip": 0.8269648180252928,
+                        "hits": 2742,
+                        "substitutions": 181,
+                        "deletions": 54,
+                        "insertions": 131
+                    }
+                },
+                {
+                    "FRAN_0025_4484_L-1": {
+                        "levensthein_distance_char": 987,
+                        "levensthein_distance_words": 483,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4270557029177719,
+                        "cer": 0.14891369945684974,
+                        "wacc": 0.572944297082228,
+                        "mer": 0.14260944950151713,
+                        "cil": 0.21235480091424253,
+                        "cip": 0.7876451990857575,
+                        "hits": 5934,
+                        "substitutions": 518,
+                        "deletions": 176,
+                        "insertions": 293
+                    }
+                },
+                {
+                    "FRAN_0025_4688_L-0": {
+                        "levensthein_distance_char": 265,
+                        "levensthein_distance_words": 138,
+                        "hamming_distance": "Ø",
+                        "wer": 0.42724458204334365,
+                        "cer": 0.1430113329735564,
+                        "wacc": 0.5727554179566563,
+                        "mer": 0.13766233766233765,
+                        "cil": 0.21150477372109888,
+                        "cip": 0.7884952262789011,
+                        "hits": 1660,
+                        "substitutions": 154,
+                        "deletions": 39,
+                        "insertions": 72
+                    }
+                },
+                {
+                    "FRAN_0025_3056_L-0": {
+                        "levensthein_distance_char": 391,
+                        "levensthein_distance_words": 223,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4084249084249084,
+                        "cer": 0.12891526541378173,
+                        "wacc": 0.5915750915750916,
+                        "mer": 0.12280150753768844,
+                        "cil": 0.17958816653178677,
+                        "cip": 0.8204118334682132,
+                        "hits": 2793,
+                        "substitutions": 191,
+                        "deletions": 49,
+                        "insertions": 151
+                    }
+                },
+                {
+                    "FRAN_0025_3678_L-1": {
+                        "levensthein_distance_char": 211,
+                        "levensthein_distance_words": 132,
+                        "hamming_distance": "Ø",
+                        "wer": 0.2553191489361702,
+                        "cer": 0.07346796657381616,
+                        "wacc": 0.7446808510638299,
+                        "mer": 0.07159823549372243,
+                        "cil": 0.1033917745371129,
+                        "cip": 0.8966082254628871,
+                        "hits": 2736,
+                        "substitutions": 96,
+                        "deletions": 40,
+                        "insertions": 75
+                    }
+                },
+                {
+                    "FRAN_0025_3678_L-0": {
+                        "levensthein_distance_char": 268,
+                        "levensthein_distance_words": 148,
+                        "hamming_distance": "Ø",
+                        "wer": 0.27611940298507465,
+                        "cer": 0.09029649595687332,
+                        "wacc": 0.7238805970149254,
+                        "mer": 0.08712613784135241,
+                        "cil": 0.12582252815820216,
+                        "cip": 0.8741774718417978,
+                        "hits": 2808,
+                        "substitutions": 123,
+                        "deletions": 37,
+                        "insertions": 108
+                    }
+                },
+                {
+                    "FRAN_0025_3909_L-1": {
+                        "levensthein_distance_char": 259,
+                        "levensthein_distance_words": 155,
+                        "hamming_distance": "Ø",
+                        "wer": 0.268630849220104,
+                        "cer": 0.07932618683001531,
+                        "wacc": 0.7313691507798961,
+                        "mer": 0.07674074074074073,
+                        "cil": 0.11176831131383325,
+                        "cip": 0.8882316886861668,
+                        "hits": 3116,
+                        "substitutions": 122,
+                        "deletions": 27,
+                        "insertions": 110
+                    }
+                },
+                {
+                    "FRAN_0025_4165_L-1": {
+                        "levensthein_distance_char": 226,
+                        "levensthein_distance_words": 112,
+                        "hamming_distance": "Ø",
+                        "wer": 0.28865979381443296,
+                        "cer": 0.10193955796120883,
+                        "wacc": 0.711340206185567,
+                        "mer": 0.09766637856525497,
+                        "cil": 0.1464817320703654,
+                        "cip": 0.8535182679296346,
+                        "hits": 2088,
+                        "substitutions": 119,
+                        "deletions": 10,
+                        "insertions": 97
+                    }
+                },
+                {
+                    "FRAN_0025_3548_L-0": {
+                        "levensthein_distance_char": 228,
+                        "levensthein_distance_words": 117,
+                        "hamming_distance": "Ø",
+                        "wer": 0.24893617021276596,
+                        "cer": 0.08536128790715088,
+                        "wacc": 0.7510638297872341,
+                        "mer": 0.08278867102396514,
+                        "cil": 0.12399281860046729,
+                        "cip": 0.8760071813995327,
+                        "hits": 2526,
+                        "substitutions": 118,
+                        "deletions": 27,
+                        "insertions": 83
+                    }
+                },
+                {
+                    "FRAN_0025_5038_L-0": {
+                        "levensthein_distance_char": 219,
+                        "levensthein_distance_words": 134,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3383838383838384,
+                        "cer": 0.09501084598698481,
+                        "wacc": 0.6616161616161615,
+                        "mer": 0.09279661016949152,
+                        "cil": 0.14355359748589835,
+                        "cip": 0.8564464025141016,
+                        "hits": 2141,
+                        "substitutions": 126,
+                        "deletions": 38,
+                        "insertions": 55
+                    }
+                },
+                {
+                    "FRAN_0025_6122_L-1": {
+                        "levensthein_distance_char": 516,
+                        "levensthein_distance_words": 272,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5631469979296067,
+                        "cer": 0.19687142312094622,
+                        "wacc": 0.43685300207039335,
+                        "mer": 0.1892883345561262,
+                        "cil": 0.29361293963522594,
+                        "cip": 0.706387060364774,
+                        "hits": 2210,
+                        "substitutions": 323,
+                        "deletions": 88,
+                        "insertions": 105
+                    }
+                },
+                {
+                    "FRAN_0025_2863_L-0": {
+                        "levensthein_distance_char": 455,
+                        "levensthein_distance_words": 280,
+                        "hamming_distance": "Ø",
+                        "wer": 0.46589018302828616,
+                        "cer": 0.13871951219512196,
+                        "wacc": 0.5341098169717138,
+                        "mer": 0.13273045507584597,
+                        "cil": 0.19149881451559791,
+                        "cip": 0.8085011854844021,
+                        "hits": 2973,
+                        "substitutions": 212,
+                        "deletions": 95,
+                        "insertions": 148
+                    }
+                },
+                {
+                    "FRAN_0025_5322_L-0": {
+                        "levensthein_distance_char": 335,
+                        "levensthein_distance_words": 189,
+                        "hamming_distance": "Ø",
+                        "wer": 0.3230769230769231,
+                        "cer": 0.10462211118051218,
+                        "wacc": 0.676923076923077,
+                        "mer": 0.10099487488694603,
+                        "cil": 0.14655330277212264,
+                        "cip": 0.8534466972278774,
+                        "hits": 2982,
+                        "substitutions": 157,
+                        "deletions": 63,
+                        "insertions": 115
+                    }
+                },
+                {
+                    "FRAN_0025_4504_L-0": {
+                        "levensthein_distance_char": 385,
+                        "levensthein_distance_words": 216,
+                        "hamming_distance": "Ø",
+                        "wer": 0.26633785450061653,
+                        "cer": 0.08168894546997665,
+                        "wacc": 0.7336621454993835,
+                        "mer": 0.0792507204610951,
+                        "cil": 0.11979649285535454,
+                        "cip": 0.8802035071446455,
+                        "hits": 4473,
+                        "substitutions": 205,
+                        "deletions": 35,
+                        "insertions": 145
+                    }
+                },
+                {
+                    "FRAN_0025_4504_L-1": {
+                        "levensthein_distance_char": 430,
+                        "levensthein_distance_words": 242,
+                        "hamming_distance": "Ø",
+                        "wer": 0.2800925925925926,
+                        "cer": 0.08692136648473822,
+                        "wacc": 0.7199074074074074,
+                        "mer": 0.08424764890282131,
+                        "cil": 0.12656932471540105,
+                        "cip": 0.873430675284599,
+                        "hits": 4674,
+                        "substitutions": 225,
+                        "deletions": 48,
+                        "insertions": 157
+                    }
+                }
+            ]
+        },
+        {
+            "generic_lectaurep_26": [
+                {
+                    "FRAN_0025_5094_L-1": {
+                        "levensthein_distance_char": 1115,
+                        "levensthein_distance_words": 493,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7703125,
+                        "cer": 0.3081813156440022,
+                        "wacc": 0.22968750000000004,
+                        "mer": 0.2986873828020359,
+                        "cil": 0.44818065867059176,
+                        "cip": 0.5518193413294082,
+                        "hits": 2618,
+                        "substitutions": 700,
+                        "deletions": 300,
+                        "insertions": 115
+                    }
+                },
+                {
+                    "FRAN_0025_3227_L-1": {
+                        "levensthein_distance_char": 367,
+                        "levensthein_distance_words": 232,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5948717948717949,
+                        "cer": 0.1699074074074074,
+                        "wacc": 0.40512820512820513,
+                        "mer": 0.16282165039929014,
+                        "cil": 0.23821434072704872,
+                        "cip": 0.7617856592729513,
+                        "hits": 1887,
+                        "substitutions": 183,
+                        "deletions": 90,
+                        "insertions": 94
+                    }
+                },
+                {
+                    "FRAN_0025_6403_L-0": {
+                        "levensthein_distance_char": 509,
+                        "levensthein_distance_words": 293,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5871743486973948,
+                        "cer": 0.17594192879363982,
+                        "wacc": 0.4128256513026052,
+                        "mer": 0.1707480711170748,
+                        "cil": 0.25624455339016483,
+                        "cip": 0.7437554466098352,
+                        "hits": 2472,
+                        "substitutions": 280,
+                        "deletions": 141,
+                        "insertions": 88
+                    }
+                },
+                {
+                    "FRAN_0025_6122_L-0": {
+                        "levensthein_distance_char": 684,
+                        "levensthein_distance_words": 333,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7302631578947368,
+                        "cer": 0.2753623188405797,
+                        "wacc": 0.26973684210526316,
+                        "mer": 0.25958254269449715,
+                        "cil": 0.39167623964472265,
+                        "cip": 0.6083237603552774,
+                        "hits": 1951,
+                        "substitutions": 417,
+                        "deletions": 116,
+                        "insertions": 151
+                    }
+                },
+                {
+                    "FRAN_0025_6393_L-1": {
+                        "levensthein_distance_char": 562,
+                        "levensthein_distance_words": 259,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5138888888888888,
+                        "cer": 0.18584656084656084,
+                        "wacc": 0.48611111111111116,
+                        "mer": 0.17869634340222576,
+                        "cil": 0.2787471395881007,
+                        "cip": 0.7212528604118993,
+                        "hits": 2583,
+                        "substitutions": 355,
+                        "deletions": 86,
+                        "insertions": 121
+                    }
+                },
+                {
+                    "FRAN_0025_3657_L-1": {
+                        "levensthein_distance_char": 483,
+                        "levensthein_distance_words": 255,
+                        "hamming_distance": "Ø",
+                        "wer": 0.42358803986710963,
+                        "cer": 0.14707673568818513,
+                        "wacc": 0.5764119601328903,
+                        "mer": 0.14289940828402367,
+                        "cil": 0.22037655160933378,
+                        "cip": 0.7796234483906662,
+                        "hits": 2897,
+                        "substitutions": 285,
+                        "deletions": 102,
+                        "insertions": 96
+                    }
+                },
+                {
+                    "FRAN_0025_4448_L-0": {
+                        "levensthein_distance_char": 2657,
+                        "levensthein_distance_words": 558,
+                        "hamming_distance": "Ø",
+                        "wer": 0.9331103678929766,
+                        "cer": 0.7478187447227694,
+                        "wacc": 0.06688963210702337,
+                        "mer": 0.7442577030812325,
+                        "cil": 0.8556246725410812,
+                        "cip": 0.14437532745891882,
+                        "hits": 913,
+                        "substitutions": 695,
+                        "deletions": 1945,
+                        "insertions": 17
+                    }
+                },
+                {
+                    "FRAN_0025_3928_L-1": {
+                        "levensthein_distance_char": 495,
+                        "levensthein_distance_words": 266,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4889705882352941,
+                        "cer": 0.15998707175177762,
+                        "wacc": 0.5110294117647058,
+                        "mer": 0.15556253928346953,
+                        "cil": 0.24334021246930382,
+                        "cip": 0.7566597875306962,
+                        "hits": 2687,
+                        "substitutions": 309,
+                        "deletions": 98,
+                        "insertions": 88
+                    }
+                },
+                {
+                    "FRAN_0025_3548_L-1": {
+                        "levensthein_distance_char": 400,
+                        "levensthein_distance_words": 212,
+                        "hamming_distance": "Ø",
+                        "wer": 0.42147117296222664,
+                        "cer": 0.145985401459854,
+                        "wacc": 0.5785288270377733,
+                        "mer": 0.14129282938890853,
+                        "cil": 0.21881670398697184,
+                        "cip": 0.7811832960130282,
+                        "hits": 2431,
+                        "substitutions": 239,
+                        "deletions": 70,
+                        "insertions": 91
+                    }
+                },
+                {
+                    "FRAN_0025_3227_L-0": {
+                        "levensthein_distance_char": 359,
+                        "levensthein_distance_words": 224,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6103542234332425,
+                        "cer": 0.16581986143187066,
+                        "wacc": 0.3896457765667575,
+                        "mer": 0.159768580329328,
+                        "cil": 0.24057165744867615,
+                        "cip": 0.7594283425513239,
+                        "hits": 1888,
+                        "substitutions": 198,
+                        "deletions": 79,
+                        "insertions": 82
+                    }
+                },
+                {
+                    "FRAN_0025_4484_L-0": {
+                        "levensthein_distance_char": 2097,
+                        "levensthein_distance_words": 806,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7476808905380334,
+                        "cer": 0.34141973298599804,
+                        "wacc": 0.25231910946196656,
+                        "mer": 0.3254695017848828,
+                        "cil": 0.4912022569322849,
+                        "cip": 0.5087977430677151,
+                        "hits": 4346,
+                        "substitutions": 1397,
+                        "deletions": 399,
+                        "insertions": 301
+                    }
+                },
+                {
+                    "FRAN_0025_6067_L-0": {
+                        "levensthein_distance_char": 645,
+                        "levensthein_distance_words": 306,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6169354838709677,
+                        "cer": 0.2392433234421365,
+                        "wacc": 0.38306451612903225,
+                        "mer": 0.22864232541651897,
+                        "cil": 0.3573740446743343,
+                        "cip": 0.6426259553256657,
+                        "hits": 2176,
+                        "substitutions": 432,
+                        "deletions": 88,
+                        "insertions": 125
+                    }
+                },
+                {
+                    "FRAN_0025_4688_L-1": {
+                        "levensthein_distance_char": 578,
+                        "levensthein_distance_words": 273,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7711864406779662,
+                        "cer": 0.30261780104712044,
+                        "wacc": 0.22881355932203384,
+                        "mer": 0.2843089030988687,
+                        "cil": 0.43793607892696695,
+                        "cip": 0.562063921073033,
+                        "hits": 1455,
+                        "substitutions": 394,
+                        "deletions": 61,
+                        "insertions": 123
+                    }
+                },
+                {
+                    "FRAN_0025_3657_L-0": {
+                        "levensthein_distance_char": 422,
+                        "levensthein_distance_words": 223,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4076782449725777,
+                        "cer": 0.13863337713534823,
+                        "wacc": 0.5923217550274222,
+                        "mer": 0.13504,
+                        "cil": 0.2104605047029532,
+                        "cip": 0.7895394952970468,
+                        "hits": 2703,
+                        "substitutions": 256,
+                        "deletions": 85,
+                        "insertions": 81
+                    }
+                },
+                {
+                    "FRAN_0025_2873_L-0": {
+                        "levensthein_distance_char": 943,
+                        "levensthein_distance_words": 468,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6842105263157895,
+                        "cer": 0.24980132450331125,
+                        "wacc": 0.3157894736842105,
+                        "mer": 0.24235415060395785,
+                        "cil": 0.34874872842061877,
+                        "cip": 0.6512512715793812,
+                        "hits": 2948,
+                        "substitutions": 471,
+                        "deletions": 356,
+                        "insertions": 116
+                    }
+                },
+                {
+                    "FRAN_0025_3012_L-1": {
+                        "levensthein_distance_char": 530,
+                        "levensthein_distance_words": 277,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5431372549019607,
+                        "cer": 0.18874643874643873,
+                        "wacc": 0.45686274509803926,
+                        "mer": 0.1816935207404868,
+                        "cil": 0.2814730827744284,
+                        "cip": 0.7185269172255716,
+                        "hits": 2387,
+                        "substitutions": 328,
+                        "deletions": 93,
+                        "insertions": 109
+                    }
+                },
+                {
+                    "FRAN_0025_4927_L-1": {
+                        "levensthein_distance_char": 629,
+                        "levensthein_distance_words": 310,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7209302325581395,
+                        "cer": 0.2576812781646866,
+                        "wacc": 0.2790697674418605,
+                        "mer": 0.24285714285714285,
+                        "cil": 0.36629624051179843,
+                        "cip": 0.6337037594882016,
+                        "hits": 1961,
+                        "substitutions": 376,
+                        "deletions": 104,
+                        "insertions": 149
+                    }
+                },
+                {
+                    "FRAN_0025_5567_L-1": {
+                        "levensthein_distance_char": 622,
+                        "levensthein_distance_words": 297,
+                        "hamming_distance": "Ø",
+                        "wer": 0.8114754098360656,
+                        "cer": 0.3058013765978368,
+                        "wacc": 0.1885245901639344,
+                        "mer": 0.29422894985808895,
+                        "cil": 0.4505889832683734,
+                        "cip": 0.5494110167316266,
+                        "hits": 1492,
+                        "substitutions": 420,
+                        "deletions": 122,
+                        "insertions": 80
+                    }
+                },
+                {
+                    "FRAN_0025_4959_L-1": {
+                        "levensthein_distance_char": 509,
+                        "levensthein_distance_words": 261,
+                        "hamming_distance": "Ø",
+                        "wer": 0.71900826446281,
+                        "cer": 0.2423809523809524,
+                        "wacc": 0.28099173553719003,
+                        "mer": 0.2334862385321101,
+                        "cil": 0.35265892335512594,
+                        "cip": 0.6473410766448741,
+                        "hits": 1671,
+                        "substitutions": 303,
+                        "deletions": 126,
+                        "insertions": 80
+                    }
+                },
+                {
+                    "FRAN_0025_5038_L-1": {
+                        "levensthein_distance_char": 658,
+                        "levensthein_distance_words": 338,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6940451745379876,
+                        "cer": 0.24886535552193645,
+                        "wacc": 0.30595482546201236,
+                        "mer": 0.24005837285662168,
+                        "cil": 0.3678612680045409,
+                        "cip": 0.6321387319954591,
+                        "hits": 2083,
+                        "substitutions": 416,
+                        "deletions": 145,
+                        "insertions": 97
+                    }
+                },
+                {
+                    "FRAN_0025_6403_L-1": {
+                        "levensthein_distance_char": 563,
+                        "levensthein_distance_words": 332,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6240601503759399,
+                        "cer": 0.18202392499191722,
+                        "wacc": 0.37593984962406013,
+                        "mer": 0.17693274670018855,
+                        "cil": 0.2632424733590908,
+                        "cip": 0.7367575266409092,
+                        "hits": 2619,
+                        "substitutions": 302,
+                        "deletions": 172,
+                        "insertions": 89
+                    }
+                },
+                {
+                    "FRAN_0025_3012_L-0": {
+                        "levensthein_distance_char": 507,
+                        "levensthein_distance_words": 263,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5249500998003992,
+                        "cer": 0.18283447529751173,
+                        "wacc": 0.4750499001996008,
+                        "mer": 0.17488789237668162,
+                        "cil": 0.2724442882378283,
+                        "cip": 0.7275557117621717,
+                        "hits": 2392,
+                        "substitutions": 318,
+                        "deletions": 63,
+                        "insertions": 126
+                    }
+                },
+                {
+                    "FRAN_0025_4448_L-1": {
+                        "levensthein_distance_char": 1441,
+                        "levensthein_distance_words": 630,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7599517490952955,
+                        "cer": 0.3062699256110521,
+                        "wacc": 0.2400482509047045,
+                        "mer": 0.2937219730941704,
+                        "cil": 0.4518149784663571,
+                        "cip": 0.5481850215336429,
+                        "hits": 3465,
+                        "substitutions": 989,
+                        "deletions": 251,
+                        "insertions": 201
+                    }
+                },
+                {
+                    "FRAN_0025_3928_L-0": {
+                        "levensthein_distance_char": 496,
+                        "levensthein_distance_words": 262,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4990476190476191,
+                        "cer": 0.1653884628209403,
+                        "wacc": 0.5009523809523809,
+                        "mer": 0.1600516295579219,
+                        "cil": 0.24311911899164607,
+                        "cip": 0.7568808810083539,
+                        "hits": 2603,
+                        "substitutions": 282,
+                        "deletions": 114,
+                        "insertions": 100
+                    }
+                },
+                {
+                    "FRAN_0025_2863_L-1": {
+                        "levensthein_distance_char": 875,
+                        "levensthein_distance_words": 473,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6885007278020379,
+                        "cer": 0.24551066217732884,
+                        "wacc": 0.31149927219796214,
+                        "mer": 0.23648648648648649,
+                        "cil": 0.3396542011748932,
+                        "cip": 0.6603457988251068,
+                        "hits": 2825,
+                        "substitutions": 430,
+                        "deletions": 309,
+                        "insertions": 136
+                    }
+                },
+                {
+                    "FRAN_0025_4702_L-1": {
+                        "levensthein_distance_char": 617,
+                        "levensthein_distance_words": 276,
+                        "hamming_distance": "Ø",
+                        "wer": 0.8165680473372781,
+                        "cer": 0.32542194092827004,
+                        "wacc": 0.18343195266272194,
+                        "mer": 0.3113017154389506,
+                        "cil": 0.47279312897267356,
+                        "cip": 0.5272068710273264,
+                        "hits": 1365,
+                        "substitutions": 413,
+                        "deletions": 118,
+                        "insertions": 86
+                    }
+                },
+                {
+                    "FRAN_0025_4029_L-1": {
+                        "levensthein_distance_char": 445,
+                        "levensthein_distance_words": 243,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5376106194690266,
+                        "cer": 0.16856060606060605,
+                        "wacc": 0.46238938053097345,
+                        "mer": 0.16030259365994237,
+                        "cil": 0.24192742340532403,
+                        "cip": 0.758072576594676,
+                        "hits": 2331,
+                        "substitutions": 248,
+                        "deletions": 61,
+                        "insertions": 136
+                    }
+                },
+                {
+                    "FRAN_0025_5428_L-1": {
+                        "levensthein_distance_char": 754,
+                        "levensthein_distance_words": 375,
+                        "hamming_distance": "Ø",
+                        "wer": 0.8187772925764192,
+                        "cer": 0.31016042780748665,
+                        "wacc": 0.18122270742358082,
+                        "mer": 0.29430132708821233,
+                        "cil": 0.4394922195231147,
+                        "cip": 0.5605077804768853,
+                        "hits": 1808,
+                        "substitutions": 460,
+                        "deletions": 163,
+                        "insertions": 131
+                    }
+                },
+                {
+                    "FRAN_0025_5074_L-0": {
+                        "levensthein_distance_char": 696,
+                        "levensthein_distance_words": 319,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7523584905660378,
+                        "cer": 0.3075563411400795,
+                        "wacc": 0.24764150943396224,
+                        "mer": 0.29743589743589743,
+                        "cil": 0.4529017359668138,
+                        "cip": 0.5470982640331862,
+                        "hits": 1644,
+                        "substitutions": 462,
+                        "deletions": 157,
+                        "insertions": 77
+                    }
+                },
+                {
+                    "FRAN_0025_4702_L-0": {
+                        "levensthein_distance_char": 593,
+                        "levensthein_distance_words": 255,
+                        "hamming_distance": "Ø",
+                        "wer": 0.8306188925081434,
+                        "cer": 0.35026580035440047,
+                        "wacc": 0.16938110749185664,
+                        "mer": 0.3329590117911286,
+                        "cil": 0.5081799601691503,
+                        "cip": 0.4918200398308496,
+                        "hits": 1188,
+                        "substitutions": 419,
+                        "deletions": 86,
+                        "insertions": 88
+                    }
+                },
+                {
+                    "FRAN_0025_4959_L-0": {
+                        "levensthein_distance_char": 612,
+                        "levensthein_distance_words": 314,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7791563275434243,
+                        "cer": 0.2691292875989446,
+                        "wacc": 0.22084367245657566,
+                        "mer": 0.26009349766255846,
+                        "cil": 0.39218914744724265,
+                        "cip": 0.6078108525527574,
+                        "hits": 1741,
+                        "substitutions": 373,
+                        "deletions": 160,
+                        "insertions": 79
+                    }
+                },
+                {
+                    "FRAN_0025_5738_L-1": {
+                        "levensthein_distance_char": 659,
+                        "levensthein_distance_words": 322,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7931034482758621,
+                        "cer": 0.2904363155575143,
+                        "wacc": 0.2068965517241379,
+                        "mer": 0.27959270258803565,
+                        "cil": 0.4205683093186643,
+                        "cip": 0.5794316906813357,
+                        "hits": 1698,
+                        "substitutions": 407,
+                        "deletions": 164,
+                        "insertions": 88
+                    }
+                },
+                {
+                    "FRAN_0025_5428_L-0": {
+                        "levensthein_distance_char": 806,
+                        "levensthein_distance_words": 415,
+                        "hamming_distance": "Ø",
+                        "wer": 0.8316633266533067,
+                        "cer": 0.3066971080669711,
+                        "wacc": 0.16833667334669333,
+                        "mer": 0.28806290207290924,
+                        "cil": 0.42632302119332144,
+                        "cip": 0.5736769788066786,
+                        "hits": 1992,
+                        "substitutions": 470,
+                        "deletions": 166,
+                        "insertions": 170
+                    }
+                },
+                {
+                    "FRAN_0025_6067_L-1": {
+                        "levensthein_distance_char": 806,
+                        "levensthein_distance_words": 340,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6525911708253359,
+                        "cer": 0.28693485226059096,
+                        "wacc": 0.3474088291746641,
+                        "mer": 0.26194345141371467,
+                        "cil": 0.38159594077689707,
+                        "cip": 0.6184040592231029,
+                        "hits": 2271,
+                        "substitutions": 430,
+                        "deletions": 108,
+                        "insertions": 268
+                    }
+                },
+                {
+                    "FRAN_0025_4927_L-0": {
+                        "levensthein_distance_char": 556,
+                        "levensthein_distance_words": 286,
+                        "hamming_distance": "Ø",
+                        "wer": 0.689156626506024,
+                        "cer": 0.2350951374207188,
+                        "wacc": 0.31084337349397595,
+                        "mer": 0.22501011736139215,
+                        "cil": 0.3410014115397644,
+                        "cip": 0.6589985884602356,
+                        "hits": 1915,
+                        "substitutions": 332,
+                        "deletions": 118,
+                        "insertions": 106
+                    }
+                },
+                {
+                    "FRAN_0025_5074_L-1": {
+                        "levensthein_distance_char": 687,
+                        "levensthein_distance_words": 307,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7871794871794872,
+                        "cer": 0.3038478549314463,
+                        "wacc": 0.21282051282051284,
+                        "mer": 0.2939666238767651,
+                        "cil": 0.44176484736343846,
+                        "cip": 0.5582351526365615,
+                        "hits": 1650,
+                        "substitutions": 431,
+                        "deletions": 180,
+                        "insertions": 76
+                    }
+                },
+                {
+                    "FRAN_0025_4029_L-0": {
+                        "levensthein_distance_char": 481,
+                        "levensthein_distance_words": 248,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5754060324825986,
+                        "cer": 0.1884796238244514,
+                        "wacc": 0.4245939675174014,
+                        "mer": 0.17967874486365334,
+                        "cil": 0.26643577561868415,
+                        "cip": 0.7335642243813159,
+                        "hits": 2196,
+                        "substitutions": 255,
+                        "deletions": 101,
+                        "insertions": 125
+                    }
+                },
+                {
+                    "FRAN_0025_3909_L-0": {
+                        "levensthein_distance_char": 645,
+                        "levensthein_distance_words": 308,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5432098765432098,
+                        "cer": 0.2045022194039315,
+                        "wacc": 0.45679012345679015,
+                        "mer": 0.19803500153515505,
+                        "cil": 0.3062411355017993,
+                        "cip": 0.6937588644982007,
+                        "hits": 2612,
+                        "substitutions": 403,
+                        "deletions": 139,
+                        "insertions": 103
+                    }
+                },
+                {
+                    "FRAN_0025_2873_L-1": {
+                        "levensthein_distance_char": 878,
+                        "levensthein_distance_words": 464,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6763848396501457,
+                        "cer": 0.24107633168588688,
+                        "wacc": 0.32361516034985427,
+                        "mer": 0.23344855091730923,
+                        "cil": 0.3336709195637273,
+                        "cip": 0.6663290804362727,
+                        "hits": 2883,
+                        "substitutions": 423,
+                        "deletions": 336,
+                        "insertions": 119
+                    }
+                },
+                {
+                    "FRAN_0025_6393_L-0": {
+                        "levensthein_distance_char": 526,
+                        "levensthein_distance_words": 277,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5082568807339449,
+                        "cer": 0.16274752475247525,
+                        "wacc": 0.4917431192660551,
+                        "mer": 0.15776844631073786,
+                        "cil": 0.24305809420532498,
+                        "cip": 0.756941905794675,
+                        "hits": 2808,
+                        "substitutions": 313,
+                        "deletions": 111,
+                        "insertions": 102
+                    }
+                },
+                {
+                    "FRAN_0025_3056_L-1": {
+                        "levensthein_distance_char": 540,
+                        "levensthein_distance_words": 283,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5411089866156787,
+                        "cer": 0.18139066174000673,
+                        "wacc": 0.45889101338432126,
+                        "mer": 0.17436228608330642,
+                        "cil": 0.26864659246251454,
+                        "cip": 0.7313534075374855,
+                        "hits": 2557,
+                        "substitutions": 326,
+                        "deletions": 94,
+                        "insertions": 120
+                    }
+                },
+                {
+                    "FRAN_0025_4484_L-1": {
+                        "levensthein_distance_char": 2257,
+                        "levensthein_distance_words": 851,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7524314765694076,
+                        "cer": 0.34052504526252264,
+                        "wacc": 0.24756852343059244,
+                        "mer": 0.32493521451194934,
+                        "cil": 0.49324042323570205,
+                        "cip": 0.506759576764298,
+                        "hits": 4689,
+                        "substitutions": 1539,
+                        "deletions": 400,
+                        "insertions": 318
+                    }
+                },
+                {
+                    "FRAN_0025_4688_L-0": {
+                        "levensthein_distance_char": 621,
+                        "levensthein_distance_words": 262,
+                        "hamming_distance": "Ø",
+                        "wer": 0.8111455108359134,
+                        "cer": 0.3351322180248246,
+                        "wacc": 0.18885448916408665,
+                        "mer": 0.3189522342064715,
+                        "cil": 0.48764539203836166,
+                        "cip": 0.5123546079616383,
+                        "hits": 1326,
+                        "substitutions": 432,
+                        "deletions": 95,
+                        "insertions": 94
+                    }
+                },
+                {
+                    "FRAN_0025_3056_L-0": {
+                        "levensthein_distance_char": 586,
+                        "levensthein_distance_words": 318,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5824175824175825,
+                        "cer": 0.19320804484009232,
+                        "wacc": 0.41758241758241754,
+                        "mer": 0.1849747474747475,
+                        "cil": 0.2837853879939328,
+                        "cip": 0.7162146120060672,
+                        "hits": 2582,
+                        "substitutions": 352,
+                        "deletions": 99,
+                        "insertions": 135
+                    }
+                },
+                {
+                    "FRAN_0025_3678_L-1": {
+                        "levensthein_distance_char": 491,
+                        "levensthein_distance_words": 249,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4816247582205029,
+                        "cer": 0.17096100278551532,
+                        "wacc": 0.5183752417794971,
+                        "mer": 0.16666666666666666,
+                        "cil": 0.25793977751336616,
+                        "cip": 0.7420602224866338,
+                        "hits": 2455,
+                        "substitutions": 299,
+                        "deletions": 118,
+                        "insertions": 74
+                    }
+                },
+                {
+                    "FRAN_0025_3678_L-0": {
+                        "levensthein_distance_char": 455,
+                        "levensthein_distance_words": 241,
+                        "hamming_distance": "Ø",
+                        "wer": 0.4496268656716418,
+                        "cer": 0.15330188679245282,
+                        "wacc": 0.5503731343283582,
+                        "mer": 0.14840182648401826,
+                        "cil": 0.22583719658380552,
+                        "cip": 0.7741628034161945,
+                        "hits": 2611,
+                        "substitutions": 258,
+                        "deletions": 99,
+                        "insertions": 98
+                    }
+                },
+                {
+                    "FRAN_0025_3909_L-1": {
+                        "levensthein_distance_char": 510,
+                        "levensthein_distance_words": 279,
+                        "hamming_distance": "Ø",
+                        "wer": 0.48353552859618715,
+                        "cer": 0.1562021439509954,
+                        "wacc": 0.5164644714038129,
+                        "mer": 0.15115589804386484,
+                        "cil": 0.23219745616432708,
+                        "cip": 0.7678025438356729,
+                        "hits": 2864,
+                        "substitutions": 299,
+                        "deletions": 102,
+                        "insertions": 109
+                    }
+                },
+                {
+                    "FRAN_0025_4165_L-1": {
+                        "levensthein_distance_char": 368,
+                        "levensthein_distance_words": 202,
+                        "hamming_distance": "Ø",
+                        "wer": 0.520618556701031,
+                        "cer": 0.16599007668019847,
+                        "wacc": 0.47938144329896903,
+                        "mer": 0.15814353244520843,
+                        "cil": 0.23911017264197243,
+                        "cip": 0.7608898273580276,
+                        "hits": 1959,
+                        "substitutions": 206,
+                        "deletions": 52,
+                        "insertions": 110
+                    }
+                },
+                {
+                    "FRAN_0025_3548_L-0": {
+                        "levensthein_distance_char": 395,
+                        "levensthein_distance_words": 205,
+                        "hamming_distance": "Ø",
+                        "wer": 0.43617021276595747,
+                        "cer": 0.14788468738300262,
+                        "wacc": 0.5638297872340425,
+                        "mer": 0.14389799635701275,
+                        "cil": 0.2250458447301995,
+                        "cip": 0.7749541552698005,
+                        "hits": 2350,
+                        "substitutions": 244,
+                        "deletions": 77,
+                        "insertions": 74
+                    }
+                },
+                {
+                    "FRAN_0025_5038_L-0": {
+                        "levensthein_distance_char": 582,
+                        "levensthein_distance_words": 281,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7095959595959596,
+                        "cer": 0.25249457700650757,
+                        "wacc": 0.29040404040404044,
+                        "mer": 0.24229808492922564,
+                        "cil": 0.37136925129478116,
+                        "cip": 0.6286307487052188,
+                        "hits": 1820,
+                        "substitutions": 369,
+                        "deletions": 116,
+                        "insertions": 97
+                    }
+                },
+                {
+                    "FRAN_0025_6122_L-1": {
+                        "levensthein_distance_char": 739,
+                        "levensthein_distance_words": 339,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7018633540372671,
+                        "cer": 0.28195345288057994,
+                        "wacc": 0.2981366459627329,
+                        "mer": 0.2663063063063063,
+                        "cil": 0.4052010556676273,
+                        "cip": 0.5947989443323727,
+                        "hits": 2036,
+                        "substitutions": 469,
+                        "deletions": 116,
+                        "insertions": 154
+                    }
+                },
+                {
+                    "FRAN_0025_2863_L-0": {
+                        "levensthein_distance_char": 657,
+                        "levensthein_distance_words": 389,
+                        "hamming_distance": "Ø",
+                        "wer": 0.6472545757071547,
+                        "cer": 0.2003048780487805,
+                        "wacc": 0.3527454242928453,
+                        "mer": 0.19261213720316622,
+                        "cil": 0.28609063321259953,
+                        "cip": 0.7139093667874005,
+                        "hits": 2754,
+                        "substitutions": 354,
+                        "deletions": 172,
+                        "insertions": 131
+                    }
+                },
+                {
+                    "FRAN_0025_5322_L-0": {
+                        "levensthein_distance_char": 948,
+                        "levensthein_distance_words": 452,
+                        "hamming_distance": "Ø",
+                        "wer": 0.7726495726495727,
+                        "cer": 0.29606495940037475,
+                        "wacc": 0.22735042735042732,
+                        "mer": 0.27997637330183106,
+                        "cil": 0.422795065894761,
+                        "cip": 0.577204934105239,
+                        "hits": 2438,
+                        "substitutions": 594,
+                        "deletions": 170,
+                        "insertions": 184
+                    }
+                },
+                {
+                    "FRAN_0025_4504_L-0": {
+                        "levensthein_distance_char": 811,
+                        "levensthein_distance_words": 409,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5043156596794082,
+                        "cer": 0.17207723318480797,
+                        "wacc": 0.49568434032059183,
+                        "mer": 0.16646141215106733,
+                        "cil": 0.2642560607106983,
+                        "cip": 0.7357439392893017,
+                        "hits": 4061,
+                        "substitutions": 536,
+                        "deletions": 116,
+                        "insertions": 159
+                    }
+                },
+                {
+                    "FRAN_0025_4504_L-1": {
+                        "levensthein_distance_char": 884,
+                        "levensthein_distance_words": 464,
+                        "hamming_distance": "Ø",
+                        "wer": 0.5370370370370371,
+                        "cer": 0.17869415807560138,
+                        "wacc": 0.4629629629629629,
+                        "mer": 0.17255514347062267,
+                        "cil": 0.271202474966588,
+                        "cip": 0.728797525033412,
+                        "hits": 4239,
+                        "substitutions": 569,
+                        "deletions": 139,
+                        "insertions": 176
+                    }
+                }
+            ]
+        }
+    ]
+}

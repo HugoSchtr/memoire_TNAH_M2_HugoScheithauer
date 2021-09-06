@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:10.083150+00:00</Created>
+        <LastChange>2021-07-19T08:44:10.083172+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH97_086MIC01805_L-1.JPG" imageWidth="2624" imageHeight="3712">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_eb612474" custom="structure {type:First_line;}">
+        <Coords points="578,890 584,822 730,835 755,819 755,946 699,909 584,909"/>
+        <Baseline points="581,891 762,891"/>
+        <TextEquiv>
+          <Unicode>Procès verbal</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d2fa2766" custom="structure {type:First_line;}">
+        <Coords points="526,931 532,841 600,903 696,909 727,931 720,952 705,955 584,955 532,999"/>
+        <Baseline points="528,934 730,932"/>
+        <TextEquiv>
+          <Unicode>Quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_158ab2dd" custom="structure {type:First_line;}">
+        <Coords points="290,1125 300,1033 331,1057 529,1051 535,1178 482,1129 383,1125 340,1144 321,1125 293,1125"/>
+        <Baseline points="293,1128 539,1118"/>
+        <TextEquiv>
+          <Unicode>Copie Collationnée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e885d3d3" custom="structure {type:First_line;}">
+        <Coords points="306,1215 306,1125 343,1144 473,1135 476,1265 430,1224 309,1224"/>
+        <Baseline points="308,1217 483,1212"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_96a5de00" custom="structure {type:First_line;}">
+        <Coords points="522,1305 526,1224 600,1237 677,1228 680,1317 529,1314"/>
+        <Baseline points="524,1306 690,1304"/>
+        <TextEquiv>
+          <Unicode>Notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_94b0fbc7" custom="structure {type:First_line;}">
+        <Coords points="290,1364 300,1317 349,1317 383,1351 430,1348 451,1370 476,1357 495,1376 485,1404 467,1407 293,1404"/>
+        <Baseline points="293,1365 497,1378"/>
+        <TextEquiv>
+          <Unicode>Décharge de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bad38893" >
+        <Coords points="269,1416 278,1385 300,1404 420,1398 454,1426 445,1450 430,1453 272,1453"/>
+        <Baseline points="270,1418 457,1427"/>
+        <TextEquiv>
+          <Unicode>mandat</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2407dbf6" custom="structure {type:First_line;}">
+        <Coords points="529,1478 529,1370 584,1407 711,1407 742,1419 742,1490 535,1490"/>
+        <Baseline points="532,1479 753,1472"/>
+        <TextEquiv>
+          <Unicode>Prêt Conditionnel</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_459f3d5b" custom="structure {type:First_line;}">
+        <Coords points="538,1614 544,1531 594,1546 637,1525 699,1559 730,1540 758,1543 770,1602 751,1639 733,1624 544,1630"/>
+        <Baseline points="539,1616 772,1605"/>
+        <TextEquiv>
+          <Unicode>Sous Location</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ff4c61b8" custom="structure {type:First_line;}">
+        <Coords points="532,1849 535,1760 631,1800 649,1800 674,1772 730,1800 755,1781 776,1840 745,1865 671,1859 640,1883 606,1862 572,1886 535,1856"/>
+        <Baseline points="534,1850 778,1841"/>
+        <TextEquiv>
+          <Unicode>Dépôt judiciaire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e3dcefc3" custom="structure {type:First_line;}">
+        <Coords points="522,1945 522,1874 541,1859 575,1890 612,1880 714,1896 758,1849 782,1849 789,1942 696,1948 662,1970 612,1942 578,1979 529,1945"/>
+        <Baseline points="524,1948 797,1936"/>
+        <TextEquiv>
+          <Unicode>Dépôt de procuron</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_216e1756" custom="structure {type:First_line;}">
+        <Coords points="529,2019 529,1951 584,1985 615,1970 646,1985 708,1954 736,1964 751,1942 779,1942 785,2029 764,2013 724,2035 535,2032"/>
+        <Baseline points="532,2023 795,2010"/>
+        <TextEquiv>
+          <Unicode>Mainlevée d&#39;inson</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9bab0994" custom="structure {type:First_line;}">
+        <Coords points="312,2159 318,2075 374,2097 436,2078 479,2122 498,2112 498,2208 461,2196 439,2208 411,2180 318,2174"/>
+        <Baseline points="313,2162 507,2162"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fd756d1e" custom="structure {type:First_line;}">
+        <Coords points="535,2248 538,2165 603,2202 668,2174 690,2174 724,2208 755,2199 758,2291 662,2264 625,2270 594,2301 563,2270 538,2267"/>
+        <Baseline points="536,2249 765,2246"/>
+        <TextEquiv>
+          <Unicode>Cahier de charge</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f2e07d6" custom="structure {type:First_line;}">
+        <Coords points="318,2524 321,2449 337,2440 396,2453 479,2443 482,2586 442,2548 324,2542"/>
+        <Baseline points="320,2525 491,2523"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dccd5b08" custom="structure {type:First_line;}">
+        <Coords points="321,2616 328,2548 340,2542 386,2579 414,2579 439,2558 470,2582 470,2660 439,2647 396,2654 365,2632 328,2641"/>
+        <Baseline points="322,2619 479,2617"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a1511932" custom="structure {type:First_line;}">
+        <Coords points="544,2765 547,2709 569,2691 755,2700 767,2759 736,2793 671,2780 618,2814 587,2811 550,2833"/>
+        <Baseline points="546,2768 770,2761"/>
+        <TextEquiv>
+          <Unicode>Adjudication</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3c6faf74" custom="structure {type:First_line;}">
+        <Coords points="538,2901 544,2818 591,2842 739,2839 739,2960 686,2960 671,2975 634,2960 544,2972"/>
+        <Baseline points="541,2903 748,2903"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d12fce02" >
+        <Coords points="547,2941 553,2910 699,2904 751,2920 761,2944 751,2960 683,2957 649,2975 631,2960 550,2969"/>
+        <Baseline points="550,2943 762,2947"/>
+        <TextEquiv>
+          <Unicode>d&#39;inscription</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_767a68ea" custom="structure {type:First_line;}">
+        <Coords points="321,3037 334,2960 436,2975 492,2963 492,3111 399,3114 365,3096 328,3118"/>
+        <Baseline points="322,3040 500,3038"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4553c744" custom="structure {type:First_line;}">
+        <Coords points="563,3133 566,3056 625,3068 717,3062 720,3149 643,3164 569,3155"/>
+        <Baseline points="565,3136 729,3129"/>
+        <TextEquiv>
+          <Unicode>Notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_101c5816" custom="structure {type:First_line;}">
+        <Coords points="541,3232 544,3173 566,3164 625,3164 652,3183 699,3161 730,3192 776,3164 791,3286 639,3276"/>
+        <Baseline points="543,3235 789,3228"/>
+        <TextEquiv>
+          <Unicode>Mainlevée d&#39;inscripon</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

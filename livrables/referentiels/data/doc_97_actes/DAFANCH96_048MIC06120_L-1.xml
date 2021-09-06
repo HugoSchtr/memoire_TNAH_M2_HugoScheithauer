@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.399853+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.399875+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_048MIC06120_L-1.jpg" imageWidth="2064" imageHeight="2944">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_774c6682" custom="structure {type:First_line;}">
+        <Coords points="569,682 576,556 638,576 689,632 721,635 743,615 775,647 792,645 797,689 763,701 723,704 706,691 571,704"/>
+        <Baseline points="571,683 800,691"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_133ba740" custom="structure {type:First_line;}">
+        <Coords points="554,1104 557,1054 596,1020 628,1040 652,1015 682,1020 731,998 738,1101 728,1113 679,1111 647,1138 608,1113 559,1113"/>
+        <Baseline points="556,1105 740,1103"/>
+        <TextEquiv>
+          <Unicode>Dépôt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_23cd8cde" custom="structure {type:First_line;}">
+        <Coords points="549,1653 554,1597 584,1567 638,1602 670,1575 699,1572 696,1665 630,1663 603,1675 579,1668 552,1680"/>
+        <Baseline points="552,1655 706,1657"/>
+        <TextEquiv>
+          <Unicode>Vente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

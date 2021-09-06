@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.534001+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.534023+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_048MIC07131_L-0.jpg" imageWidth="2128" imageHeight="2976">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_4a98e3d3" custom="structure {type:First_line;}">
+        <Coords points="766,863 768,806 791,783 835,820 848,808 895,818 895,895 875,877 768,877"/>
+        <Baseline points="768,864 903,862"/>
+        <TextEquiv>
+          <Unicode>Bail</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3bb1d05a" custom="structure {type:First_line;}">
+        <Coords points="848,1274 853,1207 895,1215 892,1311 850,1319"/>
+        <Baseline points="850,1276 901,1278"/>
+        <TextEquiv>
+          <Unicode>id</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a6b38052" custom="structure {type:First_line;}">
+        <Coords points="758,1641 776,1579 853,1631 915,1609 925,1621 939,1616 982,1654 972,1716 925,1678 900,1691 838,1678 758,1713"/>
+        <Baseline points="759,1643 983,1655"/>
+        <TextEquiv>
+          <Unicode>Promesse</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f8ae1c85" >
+        <Coords points="791,1718 815,1691 835,1698 870,1686 885,1698 915,1683 982,1718 977,1770 952,1745 796,1750"/>
+        <Baseline points="793,1719 983,1719"/>
+        <TextEquiv>
+          <Unicode>de vente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9fb8fcfb" custom="structure {type:First_line;}">
+        <Coords points="793,2281 796,2222 838,2227 863,2244 873,2232 912,2236 912,2308 890,2291 863,2313 820,2291 798,2308"/>
+        <Baseline points="796,2282 921,2278"/>
+        <TextEquiv>
+          <Unicode>vente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

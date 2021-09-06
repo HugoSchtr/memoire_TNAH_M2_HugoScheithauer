@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:10.051364+00:00</Created>
+        <LastChange>2021-07-19T08:44:10.051386+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_MIC067000004-0.JPG" imageWidth="1882" imageHeight="3000">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_8423c0d4" custom="structure {type:First_line;}">
+        <Coords points="708,530 713,465 730,460 773,490 808,477 823,492 860,492 860,545 848,545 750,630 713,592"/>
+        <Baseline points="709,530 868,531"/>
+        <TextEquiv>
+          <Unicode>Partage</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8699ddeb" custom="structure {type:First_line;}">
+        <Coords points="480,735 485,682 505,670 583,700 610,682 675,680 680,735 645,765 590,770 568,747 485,752"/>
+        <Baseline points="483,735 683,735"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c9d0ebe8" custom="structure {type:First_line;}">
+        <Coords points="700,885 708,805 733,797 765,827 795,820 850,832 890,792 900,800 905,885 860,927 810,892 775,910 743,900 705,927"/>
+        <Baseline points="702,887 906,887"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e7c2c2d1" custom="structure {type:First_line;}">
+        <Coords points="467,1050 470,997 498,980 520,985 545,1010 660,1005 668,1047 655,1070 640,1072 513,1067 473,1100"/>
+        <Baseline points="469,1051 669,1049"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7f1d6984" custom="structure {type:First_line;}">
+        <Coords points="705,1160 710,1095 728,1077 780,1122 830,1117 855,1097 893,1090 898,1160 888,1170 710,1170"/>
+        <Baseline points="706,1161 899,1161"/>
+        <TextEquiv>
+          <Unicode>Transport</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fcad64a1" >
+        <Coords points="723,1192 733,1165 790,1165 800,1175 818,1162 835,1165 865,1200 858,1242 830,1267 800,1242 738,1295 720,1295"/>
+        <Baseline points="725,1194 866,1201"/>
+        <TextEquiv>
+          <Unicode>de droits</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_97e8abc1" >
+        <Coords points="703,1220 718,1192 745,1205 853,1202 865,1190 888,1225 830,1267 795,1242 735,1297 705,1275"/>
+        <Baseline points="705,1222 889,1225"/>
+        <TextEquiv>
+          <Unicode>Successifs</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_931a98e6" custom="structure {type:First_line;}">
+        <Coords points="693,1937 698,1895 738,1867 753,1867 793,1905 848,1905 880,1887 880,1955 818,1950 765,1962 723,1947 698,1952"/>
+        <Baseline points="695,1939 888,1939"/>
+        <TextEquiv>
+          <Unicode>Rapport</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_827ded38" >
+        <Coords points="675,1980 715,1947 763,1962 863,1950 890,1980 853,1992 735,1995 725,2005 700,2005 680,1985"/>
+        <Baseline points="678,1980 893,1980"/>
+        <TextEquiv>
+          <Unicode>pour minute</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dacec78d" custom="structure {type:First_line;}">
+        <Coords points="683,2087 690,2045 738,2045 750,2055 773,2032 793,2040 830,2025 845,2040 868,2027 873,2090 708,2090 685,2102"/>
+        <Baseline points="685,2089 875,2091"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f5eed8f9" >
+        <Coords points="708,2122 710,2090 833,2090 855,2095 863,2120 858,2132 823,2135 795,2162 758,2127 713,2135"/>
+        <Baseline points="709,2124 864,2122"/>
+        <TextEquiv>
+          <Unicode>d&#39;inscription</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2b6955b0" custom="structure {type:First_line;}">
+        <Coords points="695,2220 698,2162 728,2132 755,2127 803,2175 838,2155 863,2172 865,2230 820,2227 773,2270 733,2230 700,2227"/>
+        <Baseline points="697,2220 873,2218"/>
+        <TextEquiv>
+          <Unicode>obligation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b5355a82" custom="structure {type:First_line;}">
+        <Coords points="690,2367 695,2282 730,2277 780,2327 803,2312 828,2322 875,2315 875,2382 823,2377 808,2387 775,2370 695,2385"/>
+        <Baseline points="692,2368 883,2368"/>
+        <TextEquiv>
+          <Unicode>Inventaire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c62c5a6d" custom="structure {type:First_line;}">
+        <Coords points="718,2465 725,2385 750,2380 795,2425 815,2405 845,2405 845,2480 798,2472 763,2492 745,2475 723,2475"/>
+        <Baseline points="719,2465 852,2467"/>
+        <TextEquiv>
+          <Unicode>Depôt</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6df1d8e8" custom="structure {type:First_line;}">
+        <Coords points="685,2587 698,2522 715,2520 745,2550 810,2545 830,2527 865,2540 863,2605 823,2607 803,2590 743,2610 688,2600"/>
+        <Baseline points="687,2589 873,2591"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

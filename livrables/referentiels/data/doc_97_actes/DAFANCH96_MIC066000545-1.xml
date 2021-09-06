@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.575385+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.575407+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_MIC066000545-1.JPG" imageWidth="1850" imageHeight="3000">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_118368d8" custom="structure {type:First_line;}">
+        <Coords points="192,265 195,185 240,142 327,220 362,227 382,212 410,222 482,205 485,295 475,285 430,300 402,277 377,290 357,272 280,265 247,267 212,295 197,290"/>
+        <Baseline points="193,265 490,263"/>
+        <TextEquiv>
+          <Unicode>Transport</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a00757b3" custom="structure {type:First_line;}">
+        <Coords points="185,547 187,442 242,412 277,430 340,490 355,480 372,492 420,450 447,455 477,485 547,490 555,542 542,560 525,555 512,565 457,550 370,550 307,575 287,555 257,547 217,552 205,565 187,557"/>
+        <Baseline points="187,548 556,544"/>
+        <TextEquiv>
+          <Unicode>Dissolution</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_038d5269" >
+        <Coords points="232,610 242,557 285,582 315,582 365,550 390,570 430,570 460,550 460,635 442,622 422,632 407,622 375,647 357,630 340,645 300,625 272,650 235,632"/>
+        <Baseline points="234,612 468,614"/>
+        <TextEquiv>
+          <Unicode>de Société</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_17bb8645" custom="structure {type:First_line;}">
+        <Coords points="197,870 197,765 225,767 255,740 320,740 405,817 505,817 495,895 195,897"/>
+        <Baseline points="198,892 507,894"/>
+        <TextEquiv>
+          <Unicode>Vente de fonds</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_10735c6e" >
+        <Coords points="252,960 260,902 297,930 345,905 390,922 460,917 460,975 407,975 347,1017 307,977 257,977"/>
+        <Baseline points="253,961 466,961"/>
+        <TextEquiv>
+          <Unicode>de Commerce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c725738d" custom="structure {type:First_line;}">
+        <Coords points="200,1095 205,1030 257,982 317,1042 345,1032 365,1052 442,1047 485,1065 512,1062 522,1095 512,1112 482,1107 432,1122 407,1102 370,1125 347,1107 300,1117 290,1107 225,1105 205,1120"/>
+        <Baseline points="200,1095 524,1095"/>
+        <TextEquiv>
+          <Unicode>Vente de maison</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a6b2f5b9" custom="structure {type:First_line;}">
+        <Coords points="180,1375 185,1300 267,1222 302,1252 332,1247 342,1257 362,1242 410,1290 442,1282 495,1317 512,1317 512,1402 500,1392 482,1405 470,1392 417,1387 330,1470 227,1380 185,1390"/>
+        <Baseline points="180,1375 519,1377"/>
+        <TextEquiv>
+          <Unicode>Obligation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4ea2b257" custom="structure {type:First_line;}">
+        <Coords points="162,1712 167,1612 210,1590 257,1585 322,1635 350,1632 365,1617 387,1632 407,1622 447,1635 465,1620 482,1630 507,1615 512,1712 502,1745 472,1752 440,1722 385,1732 355,1720 312,1745 292,1725 240,1737 210,1712 167,1725"/>
+        <Baseline points="163,1713 514,1714"/>
+        <TextEquiv>
+          <Unicode>Notoriété</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bae12c89" custom="structure {type:First_line;}">
+        <Coords points="157,1847 160,1745 210,1762 230,1755 275,1800 292,1790 325,1800 380,1745 440,1755 440,1860 410,1867 397,1857 382,1867 360,1852 327,1852 227,1880 197,1855 160,1857"/>
+        <Baseline points="159,1848 449,1850"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1d7a6483" custom="structure {type:First_line;}">
+        <Coords points="180,2057 182,1960 210,1937 277,1925 350,1997 407,2005 430,1995 452,2015 470,2015 477,2055 455,2085 385,2072 365,2087 342,2067 275,2070 237,2075 207,2102 182,2082"/>
+        <Baseline points="181,2059 478,2057"/>
+        <TextEquiv>
+          <Unicode>Quittance</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_74a5905c" custom="structure {type:First_line;}">
+        <Coords points="162,2465 165,2347 177,2355 220,2340 237,2355 260,2340 377,2410 397,2410 440,2367 492,2377 500,2462 490,2492 457,2480 437,2492 385,2480 347,2490 322,2477 297,2477 282,2492 237,2467 167,2480"/>
+        <Baseline points="164,2467 502,2464"/>
+        <TextEquiv>
+          <Unicode>Mainlevée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d45fdf6f" >
+        <Coords points="167,2540 172,2492 227,2472 315,2515 362,2502 382,2482 437,2507 445,2540 440,2552 392,2552 365,2572 302,2587 285,2605 275,2595 257,2612 190,2557 172,2567"/>
+        <Baseline points="168,2540 446,2542"/>
+        <TextEquiv>
+          <Unicode>d&#39;opposition</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

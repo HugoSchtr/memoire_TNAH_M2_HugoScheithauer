@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:10.113121+00:00</Created>
+        <LastChange>2021-07-19T08:44:10.113143+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH97_007MIC00003_L-0.JPG" imageWidth="2560" imageHeight="3872">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_8804c598" custom="structure {type:First_line;}">
+        <Coords points="761,1642 768,1555 819,1545 881,1597 932,1584 974,1545 1010,1535 1010,1652 952,1652 929,1674 894,1658 768,1655"/>
+        <Baseline points="765,1643 1018,1645"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3be3edfd" custom="structure {type:First_line;}">
+        <Coords points="765,1897 768,1790 865,1852 913,1832 974,1781 974,1923 903,1906 878,1926 842,1900 794,1919 768,1906"/>
+        <Baseline points="767,1898 986,1896"/>
+        <TextEquiv>
+          <Unicode>Procuration</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_416357fd" custom="structure {type:First_line;}">
+        <Coords points="1020,2261 1026,2158 1120,2145 1204,2213 1233,2219 1239,2261 1229,2336 1155,2355 1065,2336 1026,2349"/>
+        <Baseline points="1021,2264 1241,2262"/>
+        <TextEquiv>
+          <Unicode>Décharge</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a74bd524" custom="structure {type:First_line;}">
+        <Coords points="778,2639 784,2523 813,2549 991,2545 991,2645 913,2645 871,2668 839,2642 784,2658"/>
+        <Baseline points="779,2640 1000,2642"/>
+        <TextEquiv>
+          <Unicode>Certificat</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2e005694" >
+        <Coords points="797,2691 800,2652 826,2642 861,2668 932,2642 962,2652 971,2694 962,2784 910,2758 871,2778 852,2765 816,2778 800,2765"/>
+        <Baseline points="800,2694 974,2696"/>
+        <TextEquiv>
+          <Unicode>de vie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4358d55f" custom="structure {type:First_line;}">
+        <Coords points="1052,2878 1058,2765 1113,2768 1142,2797 1217,2794 1217,2884 1055,2881"/>
+        <Baseline points="1054,2879 1227,2877"/>
+        <TextEquiv>
+          <Unicode>Bail</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0223e6d9" >
+        <Coords points="1029,2939 1036,2884 1113,2878 1133,2897 1181,2881 1236,2891 1278,2855 1278,3020 1210,2962 1187,2971 1133,2952 1071,2955 1058,2968 1036,2958"/>
+        <Baseline points="1030,2942 1286,2940"/>
+        <TextEquiv>
+          <Unicode>industriel</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_be798213" custom="structure {type:First_line;}">
+        <Coords points="1042,3216 1045,3145 1071,3158 1126,3158 1139,3145 1168,3165 1184,3149 1213,3149 1207,3252 1039,3249"/>
+        <Baseline points="1044,3245 1211,3255"/>
+        <TextEquiv>
+          <Unicode>Bail</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4c25c7f9" >
+        <Coords points="1016,3300 1036,3255 1217,3262 1271,3233 1304,3262 1310,3313 1265,3346 1217,3320 1184,3323 1165,3342 1129,3320 1052,3323 1020,3342"/>
+        <Baseline points="1018,3304 1311,3316"/>
+        <TextEquiv>
+          <Unicode>industriel</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

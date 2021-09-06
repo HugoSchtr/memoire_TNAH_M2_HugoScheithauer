@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-07-19T08:44:09.567273+00:00</Created>
+        <LastChange>2021-07-19T08:44:09.567294+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="DAFANCH96_MIC067000514-0.JPG" imageWidth="1872" imageHeight="3000">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_bc782e6b" custom="structure {type:First_line;}">
+        <Coords points="800,652 810,582 840,612 873,607 893,620 893,682 870,672 853,690 838,680 820,695 805,687"/>
+        <Baseline points="801,654 900,653"/>
+        <TextEquiv>
+          <Unicode>Vente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4530ba1e" custom="structure {type:First_line;}">
+        <Coords points="805,1145 815,1077 850,1110 875,1092 898,1102 895,1160 843,1170 808,1195"/>
+        <Baseline points="808,1146 905,1150"/>
+        <TextEquiv>
+          <Unicode>Vente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cd1faf0e" custom="structure {type:First_line;}">
+        <Coords points="600,1362 605,1295 633,1317 663,1307 685,1327 720,1320 733,1330 763,1310 769,1421 775,1399 749,1425 747,1401 730,1398 687,1398 673,1396"/>
+        <Baseline points="601,1364 770,1366"/>
+        <TextEquiv>
+          <Unicode>Certificat de vie</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6985a33d" custom="structure {type:First_line;}">
+        <Coords points="800,1570 808,1512 838,1510 865,1537 895,1537 910,1522 936,1537 933,1587 895,1587 868,1607 843,1587 803,1590"/>
+        <Baseline points="803,1570 942,1573"/>
+        <TextEquiv>
+          <Unicode>Transport</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_67013ede" custom="structure {type:First_line;}">
+        <Coords points="803,1782 808,1735 823,1720 870,1720 898,1742 918,1727 948,1750 966,1737 986,1740 983,1835 923,1795 895,1797 840,1840 805,1817"/>
+        <Baseline points="805,1784 992,1788"/>
+        <TextEquiv>
+          <Unicode>obligation</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2ff648b3" custom="structure {type:First_line;}">
+        <Coords points="805,2340 810,2222 890,2300 910,2287 976,2290 973,2372 915,2372 890,2390 865,2365 853,2372 838,2357 808,2362"/>
+        <Baseline points="808,2342 983,2344"/>
+        <TextEquiv>
+          <Unicode>Transfert</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7a31203b" custom="structure {type:First_line;}">
+        <Coords points="820,2625 825,2560 893,2585 898,2625 858,2660 825,2670"/>
+        <Baseline points="822,2627 899,2627"/>
+        <TextEquiv>
+          <Unicode>id</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
