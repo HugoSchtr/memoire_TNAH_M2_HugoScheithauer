@@ -1,8 +1,6 @@
-# La reconnaissance d'entités nommées : exploration et expériences dans le contexte du projet LECTAUREP
+# La reconnaissance d'entités nommées : exploration et expériences dans le contexte du projet LECTAUREP, livrables
 
-Ce repository héberge le travail effectué durant mon stage dans l'équipe ALMAnaCH - INRIA, lors de mon M2 "Technologies numériques appliquées à l'histoire" à l'Ecole nationale des chartes.
-
-## Structure du repository
+## Structure du sous-répertoire
 
 ```
 ├── corpus_test
